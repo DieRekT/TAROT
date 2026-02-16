@@ -1,0 +1,43 @@
+{
+  "session_id": "ec295d87-419d-4f03-b58a-77401cc54b55",
+  "created": 1770547456.1516578,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "t42_34",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "The symbols are speaking in patterns. Here's the weave of your spread: (Fill deck/deck.json with your brother's real meanings to make this elite.)",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "t42_34",
+          "note": "Upright meaning for 34."
+        }
+      ],
+      "advice": [
+        "Upright meaning for 34."
+      ]
+    }
+  },
+  "chat": [
+    {
+      "role": "user",
+      "content": "?",
+      "ts": 1770547473.6046233
+    },
+    {
+      "role": "assistant",
+      "content": "Grounded in your current spread:\n\n- The Card: Upright meaning for 34.\n\nNext steps:\n- Upright meaning for 34.",
+      "ts": 1770547473.605335
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "session_id": "93be6393-8bc5-47a0-9867-cca0ad71332f",
+  "created": 1771238092.8272858,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "THRESHOLD-6",
+        "reversed": true
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "RESONANCE-3",
+        "reversed": false
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "SOVEREIGN-1",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "Storm: Look again\u2014slowly. Let laughter cut the illusion.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "THRESHOLD-6",
+          "note": "Storm: Look again\u2014slowly.\n\nYou\u2019re stepping on the same pain again because you refuse to look down. Or you\u2019re seeing threat everywhere because you\u2019re tired.\n\nSpot the sting."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "RESONANCE-3",
+          "note": "Let laughter cut the illusion.\n\nKookaburra teaches: truth can arrive as a laugh. The nervous system releases, and clarity appears.\n\nOne joke reveals truth."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "SOVEREIGN-1",
+          "note": "Choose what you allow in.\n\nDingo listens first, then decides. It belongs by choice and walks alone by law.\n\nInstant knowing."
+        }
+      ],
+      "advice": [
+        "Truth arrives fast. The window is short. Act cleanly and decisively.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": [
+    {
+      "role": "user",
+      "content": "so in summery what do i take from all three cards?",
+      "ts": 1771238164.025258
+    },
+    {
+      "role": "assistant",
+      "content": "Let's explore this reading more deeply.\n\nThe core message is: Storm: Look again\u2014slowly. Let laughter cut the illusion.\n\nYou might want to explore:\n- How the cards interact with each other\n- Which card feels most relevant to your current situation\n- What patterns you notice across the positions\n\nWhich card or aspect of this reading would you like to explore further? You can ask about specific cards, their meanings, or how they relate to your life.",
+      "ts": 1771238164.0298574
+    },
+    {
+      "role": "user",
+      "content": "how the cards interact",
+      "ts": 1771238198.9713225
+    },
+    {
+      "role": "assistant",
+      "content": "Let's explore this reading more deeply.\n\nThe core message is: Storm: Look again\u2014slowly. Let laughter cut the illusion.\n\nYou might want to explore:\n- How the cards interact with each other\n- Which card feels most relevant to your current situation\n- What patterns you notice across the positions\n\nWhich card or aspect of this reading would you like to explore further? You can ask about specific cards, their meanings, or how they relate to your life.",
+      "ts": 1771238198.972644
+    }
+  ]
+}

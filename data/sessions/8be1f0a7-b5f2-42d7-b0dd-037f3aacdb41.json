@@ -1,0 +1,38 @@
+{
+  "session_id": "8be1f0a7-b5f2-42d7-b0dd-037f3aacdb41",
+  "created": 1770564013.0711627,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "strategist",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "t42_02",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "The card 'Listening' emphasizes the importance of patience and tuning into your inner guidance. It invites you to step back from any impulsive actions and instead focus on the quiet signals around you. By asking a clear question and being receptive to the answers, you can foster a deeper understanding of your situation. This approach encourages you to honor your intuition while remaining aware of the influence of urgency and ego.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "t42_02",
+          "note": "Patience and attentiveness are crucial for insight.\n\nPractical guidance: Take a moment to pause and reflect before reacting; ask yourself a clear question about your current situation.\nShadow aspect: The challenge lies in resisting the urge to act out of impatience or ego.\nConnection to question: This card directly speaks to the need for deeper awareness and understanding in your current situation."
+        }
+      ],
+      "advice": [
+        "Set aside quiet time to reflect on your thoughts and feelings.",
+        "Formulate a clear, specific question related to your current situation.",
+        "Practice active listening in conversations to better understand the signals being communicated."
+      ],
+      "theme": "The importance of listening to inner guidance and external signals before making decisions.",
+      "energy": "Balanced",
+      "synthesis": "The focus on listening highlights the necessity of patience and reflection in decision-making, urging you to differentiate between true intuition and impulsive reactions.",
+      "reflection_prompt": "What signals have you been ignoring in your life, and how might they guide you if you choose to listen?"
+    }
+  },
+  "chat": []
+}

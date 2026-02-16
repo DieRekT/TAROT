@@ -1,0 +1,62 @@
+{
+  "session_id": "4996f3ea-cb16-4012-be0e-4303eb6e17dd",
+  "created": 1770563536.6606898,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "t42_01",
+        "reversed": false
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "t42_21",
+        "reversed": false
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "t42_25",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "This reading emphasizes the importance of grounding yourself in reality before pursuing growth. The past card, Country, suggests a need to acknowledge and stabilize your current situation. In the present, Cockatoo encourages you to express your needs and boundaries clearly, fostering confidence and visibility. Looking to the future, Whale invites you to consider the long-term implications of your choices, reinforcing the idea that meaningful change requires patience and depth.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "t42_01",
+          "note": "Grounding yourself in what is real and present is essential.\n\nPractical guidance: Focus on the basics of your life and ensure you are stable before seeking growth.\nShadow aspect: Avoid the temptation to chase fantasies that distract from your current reality.\nConnection to question: Understanding your current stability lays the foundation for future actions."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "t42_21",
+          "note": "This is a moment to be visible and advocate for yourself.\n\nPractical guidance: Practice clear communication about your needs and boundaries to enhance your confidence.\nShadow aspect: Be mindful not to equate loudness with influence; clarity is key.\nConnection to question: Expressing your current needs effectively will shape your path forward."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "t42_25",
+          "note": "A focus on long-term impacts over immediate gratification is crucial.\n\nPractical guidance: Make decisions that align with your values for lasting change, even if progress feels slow.\nShadow aspect: Resist the urge to give up when progress seems minimal or time-consuming.\nConnection to question: Your future success depends on the choices you make today for enduring growth."
+        }
+      ],
+      "advice": [
+        "Reflect on your current situation and identify areas needing stabilization.",
+        "Practice articulating your needs and boundaries clearly in your communications.",
+        "Consider the long-term consequences of your current decisions and align them with your values."
+      ],
+      "theme": "How to balance grounding with self-advocacy and long-term vision.",
+      "energy": "balanced",
+      "synthesis": "Together, these cards create a narrative that emphasizes the importance of grounding in reality, clear self-expression, and patience for long-term change. The foundation established in the past influences how you communicate in the present, which in turn shapes the legacy you build for the future.",
+      "reflection_prompt": "What foundational aspects of your life need more attention before you can fully express yourself and plan for the future?"
+    }
+  },
+  "chat": []
+}

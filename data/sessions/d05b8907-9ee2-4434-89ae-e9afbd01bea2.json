@@ -1,0 +1,56 @@
+{
+  "session_id": "d05b8907-9ee2-4434-89ae-e9afbd01bea2",
+  "created": 1770562582.8312037,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "t42_01",
+        "reversed": false
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "t42_21",
+        "reversed": false
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "t42_25",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "This reading describes the current pattern and what it asks of you. Return to what is real and present. Stabilise by tending what is already under your feet. Simplify, anchor, and act from what you can actually hold. Be seen and heard clearly. Name your needs, your offer, and your boundary. This is a moment for clean self-advocacy.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "t42_01",
+          "note": "Past: This card highlights grounding, home, reality, belonging, stability. It suggests return to what is real and present. stabilise by tending what is already under your feet. simplify, anchor, and act from what you can actually hold.. Treat this as guidance, not a fixed outcome."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "t42_21",
+          "note": "Present: This card highlights visibility, voice, confidence, expression, announcement. It suggests be seen and heard clearly. name your needs, your offer, and your boundary. this is a moment for clean self-advocacy.. Treat this as guidance, not a fixed outcome."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "t42_25",
+          "note": "Future: This card highlights depth, legacy, time, patience, big-picture. It suggests think in years, not moments. depth over speed. this is about legacy choices and slow, powerful shifts.. Treat this as guidance, not a fixed outcome."
+        }
+      ],
+      "advice": [
+        "Reflect on how these patterns connect to your current situation."
+      ]
+    }
+  },
+  "chat": []
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "f5a5c684-1fbd-45c6-a0b9-a11a9575f425",
+  "created": 1770563681.8522327,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "t42_01",
+        "reversed": false
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "t42_21",
+        "reversed": false
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "t42_25",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "The reading begins with grounding in the past, suggesting a need to stabilize and acknowledge the realities of your current situation. In the present, the emphasis is on asserting yourself and being clear about your needs and boundaries, allowing for effective communication. Looking ahead, the future encourages you to adopt a long-term perspective, focusing on meaningful shifts that contribute to your legacy. Together, these cards illustrate a journey from stability to self-expression, culminating in profound, lasting change.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "t42_01",
+          "note": "Grounding yourself in reality fosters stability and belonging.\n\nPractical guidance: Identify and nurture the foundational aspects of your life for a solid base.\nShadow aspect: Avoid getting lost in dreams at the expense of your current responsibilities.\nConnection to question: Reflecting on your past can provide clarity on what needs attention now."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "t42_21",
+          "note": "Expressing your needs clearly enhances your visibility and confidence.\n\nPractical guidance: Communicate directly with others about your boundaries and desires.\nShadow aspect: Be mindful not to mistake loudness for assertiveness; clarity is key.\nConnection to question: This moment calls for you to advocate for yourself effectively."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "t42_25",
+          "note": "Embrace the slow process of deep change that builds your legacy.\n\nPractical guidance: Focus on long-term goals, making choices that align with your deeper values.\nShadow aspect: Resist the urge to give up due to the slow pace of progress.\nConnection to question: Consider how your current actions will contribute to your future vision."
+        }
+      ],
+      "advice": [
+        "Reflect on your current realities and identify what needs your attention.",
+        "Practice clear communication with those around you to express your needs.",
+        "Set long-term goals that align with your deeper values and commit to gradual progress."
+      ],
+      "theme": "The exploration of grounding, self-advocacy, and long-term vision.",
+      "energy": "balanced",
+      "synthesis": "The cards collectively highlight the importance of grounding yourself in reality while also encouraging self-expression and a focus on long-term aspirations. The past reminds you of your roots, the present urges clear communication, and the future invites you to think deeply about your legacy. This interconnectedness emphasizes a holistic approach to your journey.",
+      "reflection_prompt": "What small action can you take today that aligns with your long-term vision?"
+    }
+  },
+  "chat": []
+}

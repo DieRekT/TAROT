@@ -1,0 +1,31 @@
+{
+  "session_id": "8a82400f-cfa0-4d93-90f2-6b6a40f3c5b6",
+  "created": 1770546332.6993096,
+  "reading": {
+    "spread_type": "one_card",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "t42_36",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "Spread captured. Replace deck/deck.json meanings with your brother's custom meanings for rich readings.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "t42_36",
+          "note": "Upright meaning for 36."
+        }
+      ],
+      "advice": [
+        "Upright meaning for 36."
+      ]
+    }
+  },
+  "chat": []
+}

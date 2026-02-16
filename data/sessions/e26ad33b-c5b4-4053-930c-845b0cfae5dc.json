@@ -1,0 +1,32 @@
+{
+  "session_id": "e26ad33b-c5b4-4053-930c-845b0cfae5dc",
+  "created": 1770562995.0750322,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "t42_18",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "This reading describes the current pattern and what it asks of you. Keep moving\u2014steady, focused, unglamorous progress. You don't need speed; you need consistency.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "t42_18",
+          "note": "The Card: This card highlights stamina, path, persistence, direction, long-walk. It suggests keep moving\u2014steady, focused, unglamorous progress. you don't need speed; you need consistency.. Treat this as guidance, not a fixed outcome."
+        }
+      ],
+      "advice": [
+        "Reflect on how these patterns connect to your current situation."
+      ]
+    }
+  },
+  "chat": []
+}

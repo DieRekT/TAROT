@@ -1,0 +1,37 @@
+{
+  "session_id": "078dbf20-9e2b-49d1-a63a-b40651a49bec",
+  "created": 1771237743.5171103,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "TRACE-1",
+        "reversed": true
+      }
+    ],
+    "result": {
+      "summary": "Storm: Start beneath the noise.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "TRACE-1",
+          "note": "Storm: Start beneath the noise.\n\nYou\u2019re hiding when you should be building. Or building without leaving airholes for joy.\n\nIgnore chatter."
+        }
+      ],
+      "advice": [
+        "Information moves fast. External voices amplify. Verify, simplify, choose your signal.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

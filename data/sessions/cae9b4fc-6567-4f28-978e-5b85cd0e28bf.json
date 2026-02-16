@@ -1,0 +1,38 @@
+{
+  "session_id": "cae9b4fc-6567-4f28-978e-5b85cd0e28bf",
+  "created": 1770601117.337695,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "counselor",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "t42_18",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "The card drawn reveals an important aspect of your current situation that encourages reflection and awareness. It invites you to consider how your preferences and desires align with your present actions. This is a time for self-examination and clarity, allowing you to identify what truly matters to you. Engaging with this insight can lead to more authentic choices moving forward.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Single Card",
+          "card_id": "t42_18",
+          "note": "The Hermit represents a journey within, emphasizing introspection and solitude as tools for understanding oneself.\n\nPractical guidance: Consider setting aside time for quiet reflection to explore your inner thoughts and feelings, away from external distractions.\nShadow aspect: The challenge may lie in feeling isolated or disconnected from others during this introspective phase.\nConnection to question: This card suggests that your question revolves around seeking clarity on your path and values, highlighting the importance of inner guidance."
+        }
+      ],
+      "advice": [
+        "Schedule regular time for reflection or journaling to explore your thoughts.",
+        "Identify one area of your life where you feel misaligned and consider steps to address it.",
+        "Reach out to a trusted friend or mentor to discuss your insights and gain perspective."
+      ],
+      "theme": "Self-discovery and alignment with personal values",
+      "energy": "Transitional",
+      "synthesis": "The energy of The Hermit focuses on self-awareness and personal truth, encouraging you to delve deeper into your motivations and desires. This introspective approach can lead to greater alignment in your life choices.",
+      "reflection_prompt": "What truths about yourself have you been avoiding, and how might facing them empower your next steps?"
+    }
+  },
+  "chat": []
+}

@@ -1,0 +1,37 @@
+{
+  "session_id": "787e08fa-1313-4640-9586-a462ec16e6ef",
+  "created": 1771146583.1967041,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "SOVEREIGN-3",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "Choose your pursuit.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "SOVEREIGN-3",
+          "note": "Choose your pursuit.\n\nQuoll moves with intelligence and restraint. It chooses targets carefully\u2014energy is sacred.\n\nDistractions."
+        }
+      ],
+      "advice": [
+        "Information moves fast. External voices amplify. Verify, simplify, choose your signal.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

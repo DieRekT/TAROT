@@ -1,0 +1,61 @@
+{
+  "session_id": "1ada8918-0631-4d03-82da-44c19f80cfa3",
+  "created": 1771241478.8578753,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "WITNESS-4",
+        "reversed": false
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "WITNESS-2",
+        "reversed": false
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "SOVEREIGN-5",
+        "reversed": true
+      }
+    ],
+    "result": {
+      "summary": "Rise. See. Decide. Silence is strategy.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "WITNESS-4",
+          "note": "Rise. See. Decide.\n\nEagle sees the whole terrain. This card appears when perspective is the medicine.\n\nInstant route change."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "WITNESS-2",
+          "note": "Silence is strategy.\n\nFrogmouth teaches camouflage as wisdom: don\u2019t announce yourself. Watch.\n\nSpot the move."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "SOVEREIGN-5",
+          "note": "Storm: Show the line, then hold it.\n\nYou\u2019re bluffing or staying silent until eruption.\n\nDecide."
+        }
+      ],
+      "advice": [
+        "Truth arrives fast. The window is short. Act cleanly and decisively.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

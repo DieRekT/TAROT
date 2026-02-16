@@ -1,0 +1,37 @@
+{
+  "session_id": "81198cbc-f186-4146-8c0c-070bd143b4c2",
+  "created": 1771246899.8440642,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "TRACE-3",
+        "reversed": true
+      }
+    ],
+    "result": {
+      "summary": "Storm: Trust the odd shape of reality.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "TRACE-3",
+          "note": "Storm: Trust the odd shape of reality.\n\nConfusion becomes an excuse. Or you over-explain the miracle until it dies.\n\nDon\u2019t argue it."
+        }
+      ],
+      "advice": [
+        "Information moves fast. External voices amplify. Verify, simplify, choose your signal.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

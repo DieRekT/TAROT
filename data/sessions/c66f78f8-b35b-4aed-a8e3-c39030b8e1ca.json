@@ -1,0 +1,43 @@
+{
+  "session_id": "c66f78f8-b35b-4aed-a8e3-c39030b8e1ca",
+  "created": 1770562787.5906239,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "t42_16",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "This reading describes the current pattern and what it asks of you. Trust informed instinct. Read the terrain and choose the cleanest path. You don't need permission to be smart.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "t42_16",
+          "note": "The Card: This card highlights instinct, discernment, wild-truth, strategy, awareness. It suggests trust informed instinct. read the terrain and choose the cleanest path. you don't need permission to be smart.. Treat this as guidance, not a fixed outcome."
+        }
+      ],
+      "advice": [
+        "Reflect on how these patterns connect to your current situation."
+      ]
+    }
+  },
+  "chat": [
+    {
+      "role": "user",
+      "content": "?",
+      "ts": 1770562805.9668918
+    },
+    {
+      "role": "assistant",
+      "content": "Let's explore this reading more deeply.\n\nThe core message is: This reading describes the current pattern and what it asks of you. Trust informed instinct. Read the terrain and choose the cleanest path. You don't need permission to be smart.\n\nWhich card or aspect of this reading would you like to explore further? You can ask about specific cards, their meanings, or how they relate to your life.",
+      "ts": 1770562805.9679964
+    }
+  ]
+}

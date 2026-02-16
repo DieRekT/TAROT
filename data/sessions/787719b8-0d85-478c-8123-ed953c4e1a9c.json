@@ -1,0 +1,37 @@
+{
+  "session_id": "787719b8-0d85-478c-8123-ed953c4e1a9c",
+  "created": 1771239949.647011,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "SOVEREIGN-2",
+        "reversed": true
+      }
+    ],
+    "result": {
+      "summary": "Storm: Be soft. Stay sovereign.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "SOVEREIGN-2",
+          "note": "Storm: Be soft. Stay sovereign.\n\nYou\u2019re spiking people because you\u2019re hurt. Or dropping protection too soon.\n\nClarity."
+        }
+      ],
+      "advice": [
+        "Truth arrives fast. The window is short. Act cleanly and decisively.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

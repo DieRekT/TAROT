@@ -1,0 +1,37 @@
+{
+  "session_id": "85b15200-98b3-426d-9ad8-49f2e15e78ec",
+  "created": 1771245098.525221,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "THRESHOLD-5",
+        "reversed": true
+      }
+    ],
+    "result": {
+      "summary": "Storm: Hold the line. No exceptions.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "THRESHOLD-5",
+          "note": "Storm: Hold the line. No exceptions.\n\nYou\u2019re over-controlling because you don\u2019t trust life. Or you\u2019re reckless because you\u2019re numb.\n\nDon\u2019t be talked into risk."
+        }
+      ],
+      "advice": [
+        "Information moves fast. External voices amplify. Verify, simplify, choose your signal.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

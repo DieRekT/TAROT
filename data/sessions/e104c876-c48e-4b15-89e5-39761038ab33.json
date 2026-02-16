@@ -1,0 +1,37 @@
+{
+  "session_id": "e104c876-c48e-4b15-89e5-39761038ab33",
+  "created": 1771237916.3379867,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "THRESHOLD-2",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "Respect the unseen boundary.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "THRESHOLD-2",
+          "note": "Respect the unseen boundary.\n\nThis is not fear\u2014this is precision. Brown Snake teaches: don\u2019t reach where you haven\u2019t looked. Move slowly. Confirm the ground.\n\nGossip/pressure; ignore."
+        }
+      ],
+      "advice": [
+        "Information moves fast. External voices amplify. Verify, simplify, choose your signal.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

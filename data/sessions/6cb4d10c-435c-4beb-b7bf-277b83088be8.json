@@ -1,0 +1,62 @@
+{
+  "session_id": "6cb4d10c-435c-4beb-b7bf-277b83088be8",
+  "created": 1770563501.0821424,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "t42_01",
+        "reversed": false
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "t42_21",
+        "reversed": false
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "t42_25",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "The reading reflects a journey from grounding in reality to asserting one's voice and ultimately planning for a deeper legacy. In the past, the Country card emphasizes the importance of stabilizing by recognizing what is real and present in your life. Currently, the Cockatoo encourages you to express your needs and boundaries confidently, suggesting that clear communication can shift your current circumstances. Looking ahead, the Whale invites you to consider the long-term impact of your choices, highlighting that meaningful change often requires patience and a focus on your legacy.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "t42_01",
+          "note": "Grounding in what is real fosters stability and prepares you for growth.\n\nPractical guidance: Assess your current situation and focus on what you can manage and nurture.\nShadow aspect: Avoid the temptation to neglect your foundational needs in pursuit of unrealistic aspirations.\nConnection to question: Reflect on how your past grounding has influenced your current state and choices."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "t42_21",
+          "note": "A moment to assert yourself and speak your truth can lead to positive outcomes.\n\nPractical guidance: Practice clear communication about your needs and boundaries in your relationships.\nShadow aspect: Be mindful that assertiveness should not be confused with aggression; clarity is key.\nConnection to question: Consider how your current ability to voice your needs affects your personal growth."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "t42_25",
+          "note": "Long-term thinking and patience are essential for achieving meaningful change.\n\nPractical guidance: Set long-term goals that align with your true values and be prepared for a gradual journey.\nShadow aspect: Avoid discouragement if progress feels slow; lasting change takes time.\nConnection to question: Contemplate how your future choices will contribute to the legacy you wish to create."
+        }
+      ],
+      "advice": [
+        "Take time to identify and reinforce the foundational aspects of your life that provide stability.",
+        "Practice articulating your needs and boundaries in a clear and confident manner.",
+        "Reflect on your long-term goals and consider what small steps you can take toward achieving them."
+      ],
+      "theme": "The exploration of grounding oneself in reality while advocating for personal needs and planning for the future.",
+      "energy": "transitional",
+      "synthesis": "Together, these cards illustrate a process of grounding oneself, finding one's voice, and then looking toward the future with an understanding of the importance of patience and long-term goals. The Country card lays the foundation for stability, the Cockatoo empowers self-expression, and the Whale encourages a vision that extends beyond immediate gratification.",
+      "reflection_prompt": "What foundational truths do you need to acknowledge to move forward confidently and with purpose?"
+    }
+  },
+  "chat": []
+}

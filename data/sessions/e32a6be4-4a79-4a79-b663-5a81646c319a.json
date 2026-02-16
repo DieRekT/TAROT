@@ -1,0 +1,62 @@
+{
+  "session_id": "e32a6be4-4a79-4a79-b663-5a81646c319a",
+  "created": 1770563478.4611902,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "t42_01",
+        "reversed": false
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "t42_21",
+        "reversed": false
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "t42_25",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "This reading emphasizes the importance of grounding and clarity in your journey. In the past, the focus was on establishing a solid foundation, reminding you to engage with what is real and present. Currently, the emphasis shifts to expressing your needs and boundaries confidently, ensuring you are seen and heard. Looking forward, the cards encourage you to embrace patience and think about the long-term implications of your choices, fostering deep and meaningful change.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "t42_01",
+          "note": "Grounding in reality allows for stability and clarity in your journey.\n\nPractical guidance: Reflect on your current situation and identify the basics that need attention.\nShadow aspect: Avoid being lured away from foundational truths by fantasies.\nConnection to question: This past experience sets the stage for understanding your current needs."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "t42_21",
+          "note": "Your voice is your power; clearly state what you need.\n\nPractical guidance: Practice vocalizing your boundaries and desires in conversations.\nShadow aspect: Beware of equating loudness with effectiveness; clarity is key.\nConnection to question: This is a pivotal moment to assert yourself and communicate effectively."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "t42_25",
+          "note": "Consider the long-term impact of your choices for lasting change.\n\nPractical guidance: Set goals that align with your long-term vision rather than seeking immediate results.\nShadow aspect: The challenge lies in the temptation to give up if progress feels slow.\nConnection to question: This future perspective encourages you to remain committed to your growth journey."
+        }
+      ],
+      "advice": [
+        "Identify and reinforce the foundational aspects of your life that need attention.",
+        "Practice stating your needs and boundaries clearly in your daily interactions.",
+        "Reflect on your long-term goals and consider how your current actions align with them."
+      ],
+      "theme": "Exploring the balance between grounding, self-expression, and long-term vision.",
+      "energy": "Transitional",
+      "synthesis": "Together, these cards paint a picture of a journey that begins with grounding in reality, evolves through confident self-expression, and culminates in a focus on long-term legacy and deep change. Each card builds on the previous one, urging you to engage with the present while keeping an eye on the future.",
+      "reflection_prompt": "In what areas of your life do you need to assert your voice more clearly?"
+    }
+  },
+  "chat": []
+}

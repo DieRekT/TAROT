@@ -1,0 +1,48 @@
+{
+  "session_id": "3057bcad-1fe2-4283-877e-ab7d0140c125",
+  "created": 1771147211.4588118,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "MOTION-2",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "Advance without forcing.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "MOTION-2",
+          "note": "Advance without forcing.\n\nWallaby teaches incremental movement\u2014quiet competence.\n\nIgnore distractions."
+        }
+      ],
+      "advice": [
+        "Information moves fast. External voices amplify. Verify, simplify, choose your signal.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": [
+    {
+      "role": "user",
+      "content": "Explain it simpler",
+      "ts": 1771147300.9283652
+    },
+    {
+      "role": "assistant",
+      "content": "Let's explore this reading more deeply.\n\nThe core message is: Advance without forcing.\n\nWhich card or aspect of this reading would you like to explore further? You can ask about specific cards, their meanings, or how they relate to your life.",
+      "ts": 1771147300.9311922
+    }
+  ]
+}

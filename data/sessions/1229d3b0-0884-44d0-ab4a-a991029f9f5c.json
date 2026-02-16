@@ -1,0 +1,38 @@
+{
+  "session_id": "1229d3b0-0884-44d0-ab4a-a991029f9f5c",
+  "created": 1770563598.2807305,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "t42_01",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "The reading begins with the Country card in the Past position, emphasizing the importance of grounding and stability in your life. It suggests that your foundation is crucial for any future growth, reminding you to focus on what is tangible and present. This is complemented by the message of returning to your roots and recognizing the value of your current reality. By acknowledging the solid aspects of your life, you can build a more fulfilling path forward.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "t42_01",
+          "note": "Grounding in reality is essential for stability and growth.\n\nPractical guidance: Identify the core elements in your life that provide support and nurture them.\nShadow aspect: Avoid the temptation to neglect the basics in pursuit of unattainable dreams.\nConnection to question: Reflect on how your past experiences of stability can inform your current decisions."
+        }
+      ],
+      "advice": [
+        "List three aspects of your life that provide you with a sense of stability and nurture them.",
+        "Take time to reflect on your current reality and identify any fantasies that may distract you from what truly matters.",
+        "Engage in an activity that connects you to your physical environment, such as gardening or a nature walk."
+      ],
+      "theme": "Exploring the importance of grounding and stability for future growth",
+      "energy": "Balanced",
+      "synthesis": "The Country card emphasizes the foundation needed for future endeavors. It highlights the importance of recognizing and nurturing what is real, allowing you to approach future opportunities from a place of strength. This grounding prepares you for the next steps in your journey.",
+      "reflection_prompt": "In what ways can you better appreciate and cultivate the stability present in your life?"
+    }
+  },
+  "chat": []
+}

@@ -1,0 +1,42 @@
+{
+  "session_id": "24f5c243-8e91-412e-84b1-0b834cecb9ad",
+  "created": 1770545902.8900766,
+  "reading": {
+    "spread_type": "one_card",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "t42_27",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "Spread captured. Replace deck/deck.json meanings with your brother's custom meanings for rich readings.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "t42_27",
+          "note": "Upright meaning for 27."
+        }
+      ],
+      "advice": [
+        "Upright meaning for 27."
+      ]
+    }
+  },
+  "chat": [
+    {
+      "role": "user",
+      "content": "?",
+      "ts": 1770545913.7578778
+    },
+    {
+      "role": "assistant",
+      "content": "Grounded in your current spread:\n\n- The Card: Upright meaning for 27.\n\nNext steps:\n- Upright meaning for 27.",
+      "ts": 1770545913.758694
+    }
+  ]
+}

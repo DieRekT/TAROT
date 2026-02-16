@@ -1,0 +1,53 @@
+{
+  "session_id": "b7904f89-32db-4124-b746-f8a9ffd78d39",
+  "created": 1770557603.9373298,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "t42_02",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "The symbols are speaking in patterns. Here's the weave of your spread: (Fill deck/deck.json with your brother's real meanings to make this elite.)",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "t42_02",
+          "note": "Stop forcing outcomes. Subtle information is available if you slow down."
+        }
+      ],
+      "advice": [
+        "Stop forcing outcomes."
+      ]
+    }
+  },
+  "chat": [
+    {
+      "role": "user",
+      "content": "?",
+      "ts": 1770557617.126855
+    },
+    {
+      "role": "assistant",
+      "content": "Grounded in your current spread:\n\n- The Card: Stop forcing outcomes. Subtle information is available if you slow down.\n\nNext steps:\n- Stop forcing outcomes.",
+      "ts": 1770557617.1274295
+    },
+    {
+      "role": "user",
+      "content": "how?\\",
+      "ts": 1770557646.1109512
+    },
+    {
+      "role": "assistant",
+      "content": "Grounded in your current spread:\n\n- The Card: Stop forcing outcomes. Subtle information is available if you slow down.\n\nNext steps:\n- Stop forcing outcomes.",
+      "ts": 1770557646.1117752
+    }
+  ]
+}

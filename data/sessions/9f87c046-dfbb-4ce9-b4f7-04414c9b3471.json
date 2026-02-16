@@ -1,0 +1,37 @@
+{
+  "session_id": "9f87c046-dfbb-4ce9-b4f7-04414c9b3471",
+  "created": 1771237749.4087992,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "MOTION-4",
+        "reversed": true
+      }
+    ],
+    "result": {
+      "summary": "Storm: Strike only when it\u2019s ripe.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "MOTION-4",
+          "note": "Storm: Strike only when it\u2019s ripe.\n\nYou\u2019re waiting forever because fear calls itself \u2018timing.\u2019 Or you strike too early.\n\nIgnore bait."
+        }
+      ],
+      "advice": [
+        "Information moves fast. External voices amplify. Verify, simplify, choose your signal.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

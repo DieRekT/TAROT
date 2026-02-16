@@ -1,0 +1,37 @@
+{
+  "session_id": "47fb57a4-6ad2-4906-9df1-2467a7106a61",
+  "created": 1771245130.5057006,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "SOVEREIGN-6",
+        "reversed": true
+      }
+    ],
+    "result": {
+      "summary": "Storm: Let joy be true, not forced.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "SOVEREIGN-6",
+          "note": "Storm: Let joy be true, not forced.\n\nYou\u2019re performing positivity while bleeding. Or rejecting joy because pain feels more \u2018real.\u2019\n\nDon\u2019t perform."
+        }
+      ],
+      "advice": [
+        "Information moves fast. External voices amplify. Verify, simplify, choose your signal.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

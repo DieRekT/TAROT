@@ -1,0 +1,37 @@
+{
+  "session_id": "47ed86b2-6123-4b39-9044-d1f11dcbb2d5",
+  "created": 1770601904.4975188,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "counselor",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "RESONANCE-2",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "Territory song.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "RESONANCE-2",
+          "note": "Territory song.\n\nMagpie arrives when your voice must mark your space. Not aggression\u2014presence.\n\nWords travel; be precise."
+        }
+      ],
+      "advice": [
+        "Information moves fast. External voices amplify. Verify, simplify, choose your signal.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

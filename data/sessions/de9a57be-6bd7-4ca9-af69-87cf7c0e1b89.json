@@ -1,0 +1,48 @@
+{
+  "session_id": "de9a57be-6bd7-4ca9-af69-87cf7c0e1b89",
+  "created": 1770628611.9567096,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "counselor",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "TRACE-5",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "The armored lesson.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "TRACE-5",
+          "note": "The armored lesson.\n\nThorny Devil is the living receipt. Every spine is a past boundary learned. Learn once, and encode it.\n\nDon\u2019t take bait."
+        }
+      ],
+      "advice": [
+        "Information moves fast. External voices amplify. Verify, simplify, choose your signal.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": [
+    {
+      "role": "user",
+      "content": "Explain it to me like I'm 12. Hey!",
+      "ts": 1770628671.3285708
+    },
+    {
+      "role": "assistant",
+      "content": "Let's explore this reading more deeply.\n\nThe core message is: The armored lesson.\n\nWhich card or aspect of this reading would you like to explore further? You can ask about specific cards, their meanings, or how they relate to your life.",
+      "ts": 1770628671.32925
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "session_id": "9220957e-a3f7-452c-81a2-d24928d77d88",
+  "created": 1770563372.4405227,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "t42_01",
+        "reversed": false
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "t42_21",
+        "reversed": false
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "t42_25",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "This reading emphasizes the importance of grounding yourself in reality to build a stable foundation for your current journey of self-advocacy. In the past, you have established a sense of belonging and stability, which now serves as the basis for expressing your needs with confidence. As you look to the future, the Whale card invites you to consider the long-term impact of your choices, reminding you that meaningful change requires patience and depth. Together, these cards highlight a pathway from recognizing your current reality to asserting yourself clearly and planning for a legacy that aligns with your deeper values.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "t42_01",
+          "note": "Grounding in reality is essential for stability.\n\nPractical guidance: Take time to reflect on your current situation and identify what is stable and true in your life.\nShadow aspect: Avoid the temptation to chase dreams that distract you from your present needs.\nConnection to question: Understanding your foundational stability helps inform how you will advocate for yourself now."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "t42_21",
+          "note": "Now is the time to assert your voice and needs clearly.\n\nPractical guidance: Communicate directly about what you require and set clear boundaries with others.\nShadow aspect: Be mindful that assertiveness does not equate to aggression; clarity is key.\nConnection to question: Your ability to express yourself is crucial for moving forward effectively."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "t42_25",
+          "note": "Consider the long-term implications of your actions.\n\nPractical guidance: Focus on making choices that will lead to enduring change, even if progress feels slow.\nShadow aspect: Avoid becoming disheartened by the time it takes to see results.\nConnection to question: Planning for the future with a legacy mindset encourages sustainable growth."
+        }
+      ],
+      "advice": [
+        "Reflect on your current stability and identify areas for growth.",
+        "Practice assertive communication by stating your needs clearly in your interactions.",
+        "Set long-term goals that align with your values and be patient with the process of change."
+      ],
+      "theme": "Navigating self-advocacy and long-term growth through grounding and clarity.",
+      "energy": "balanced",
+      "synthesis": "The cards collectively highlight a journey from a solid past foundation (Country) to clear self-expression (Cockatoo), culminating in a future focused on meaningful, long-term change (Whale). This progression underscores the importance of grounding yourself before advocating for your needs and considering the broader impacts of your choices.",
+      "reflection_prompt": "What aspects of your current reality can you anchor into to support your future aspirations?"
+    }
+  },
+  "chat": []
+}

@@ -1,0 +1,38 @@
+{
+  "session_id": "561b8743-5944-415c-bc9b-44618298eeae",
+  "created": 1770592856.1699784,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "counselor",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "t42_27",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "The Octopus card suggests that you are currently in a space filled with multiple options and opportunities. Your ability to adapt and leverage your existing skills will be crucial in navigating these choices. While it's tempting to explore every avenue, remember that focused action is key to avoiding chaos. It's time to strategically choose the paths that align with your highest potential.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "t42_27",
+          "note": "You have a wealth of options and the adaptability to navigate them effectively.\n\nPractical guidance: Take time to assess your skills and determine which options will yield the best results for you.\nShadow aspect: Beware of spreading yourself too thin by trying to pursue too many paths at once.\nConnection to question: This card directly responds to your inquiry about how to manage the choices before you."
+        }
+      ],
+      "advice": [
+        "List out your current options and evaluate them based on your skills.",
+        "Prioritize the top 2-3 options that align with your goals and values.",
+        "Create a plan that outlines specific actions you can take to move forward with these choices."
+      ],
+      "theme": "Exploring the variety of options available in your life and how to approach them thoughtfully.",
+      "energy": "Expansive",
+      "synthesis": "The Octopus card emphasizes the importance of flexibility and strategic thinking. While you have many avenues to explore, the focus should be on leveraging your strengths to make impactful choices.",
+      "reflection_prompt": "What skills can you leverage to make a more focused decision among the options available to you?"
+    }
+  },
+  "chat": []
+}

@@ -1,0 +1,32 @@
+{
+  "session_id": "344ca7f8-75f1-4bba-9376-fcb034acbbb2",
+  "created": 1770561085.867581,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "strategist",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "t42_11",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "This reading describes the current pattern and what it asks of you. Commit and move forward.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "t42_11",
+          "note": "The Card: This card highlights a central theme. It suggests commit and move forward.. Treat this as guidance, not a fixed outcome."
+        }
+      ],
+      "advice": [
+        "Reflect on how these patterns connect to your current situation."
+      ]
+    }
+  },
+  "chat": []
+}

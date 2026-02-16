@@ -1,0 +1,61 @@
+{
+  "session_id": "649c94dd-4ecd-41c0-8e46-e3dd9a338a7c",
+  "created": 1771241456.869376,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "THRESHOLD-3",
+        "reversed": true
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "THRESHOLD-5",
+        "reversed": true
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "WITNESS-1",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "Storm: Stand. That is enough. Storm: Hold the line. No exceptions.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "THRESHOLD-3",
+          "note": "Storm: Stand. That is enough.\n\nYou\u2019re using intimidation where clarity would work. Or you\u2019re shrinking because you forgot your size.\n\nOne decisive move."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "THRESHOLD-5",
+          "note": "Storm: Hold the line. No exceptions.\n\nYou\u2019re over-controlling because you don\u2019t trust life. Or you\u2019re reckless because you\u2019re numb.\n\nAct instantly."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "WITNESS-1",
+          "note": "Attention is power when it is clean.\n\nOct watches the trace before it becomes story. It offers presence, not command.\n\nInsight."
+        }
+      ],
+      "advice": [
+        "Truth arrives fast. The window is short. Act cleanly and decisively.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

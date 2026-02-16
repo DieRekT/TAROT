@@ -1,0 +1,37 @@
+{
+  "session_id": "6b311f2d-9bb8-4b83-92a2-93a7208c8b65",
+  "created": 1771241310.8377452,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "RESONANCE-5",
+        "reversed": true
+      }
+    ],
+    "result": {
+      "summary": "Storm: Return to the pulse.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "RESONANCE-5",
+          "note": "Storm: Return to the pulse.\n\nYou\u2019re forcing rhythm with stimulants, stress, or chaos.\n\nReset instantly."
+        }
+      ],
+      "advice": [
+        "Truth arrives fast. The window is short. Act cleanly and decisively.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

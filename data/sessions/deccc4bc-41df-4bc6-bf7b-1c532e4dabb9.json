@@ -1,0 +1,61 @@
+{
+  "session_id": "deccc4bc-41df-4bc6-bf7b-1c532e4dabb9",
+  "created": 1771241454.0906293,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "TRACE-4",
+        "reversed": false
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "WITNESS-7",
+        "reversed": false
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "TRACE-7",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "Choose the habitat that sustains. Stay deep, then rise when called.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "TRACE-4",
+          "note": "Choose the habitat that sustains.\n\nKoala is the memory of the body: routines, safety, familiarity. It appears when you must honor your pace.\n\nSee what\u2019s toxic."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "WITNESS-7",
+          "note": "Stay deep, then rise when called.\n\nPort Jackson is the deep witness that doesn\u2019t chase. It waits, it knows, it remains.\n\nMoment arrives."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "TRACE-7",
+          "note": "Stop pretending. Start cleansing.\n\nTasmanian Devil appears when denial is over. It brings raw reality, cleansing by confrontation.\n\nInstant truth."
+        }
+      ],
+      "advice": [
+        "Truth arrives fast. The window is short. Act cleanly and decisively.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

@@ -1,0 +1,32 @@
+{
+  "session_id": "3e2523e9-ebde-4bbb-9379-53e6eb6f122f",
+  "created": 1770558094.1387322,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "strategist",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "t42_18",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "Here's the situation as it stands \u2014 and what to do next: (Fill deck/deck.json with your brother's real meanings to make this elite.)",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "t42_18",
+          "note": "Be seen and heard clearly."
+        }
+      ],
+      "advice": [
+        "Be seen and heard clearly."
+      ]
+    }
+  },
+  "chat": []
+}

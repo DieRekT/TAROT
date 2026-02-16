@@ -1,0 +1,61 @@
+{
+  "session_id": "776002a2-dd4a-41cc-84c0-b7f281b156c3",
+  "created": 1770601990.981119,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "counselor",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "SOVEREIGN-3",
+        "reversed": false
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "SOVEREIGN-3",
+        "reversed": true
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "WITNESS-1",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "The lone hunter\u2019s ethics. Storm: The lone hunter\u2019s ethics.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "SOVEREIGN-3",
+          "note": "The lone hunter\u2019s ethics.\n\nQuoll moves with intelligence and restraint. It chooses targets carefully\u2014energy is sacred.\n\nDistractions."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "SOVEREIGN-3",
+          "note": "Storm: The lone hunter\u2019s ethics.\n\nYou\u2019re hunting approval, not truth. Or scattering energy across too many battles.\n\nDistractions."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "WITNESS-1",
+          "note": "Distributed awareness touches the world lightly.\n\nOct watches the trace before it becomes story. It offers presence, not command.\n\nNoise; observe quietly."
+        }
+      ],
+      "advice": [
+        "Information moves fast. External voices amplify. Verify, simplify, choose your signal.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

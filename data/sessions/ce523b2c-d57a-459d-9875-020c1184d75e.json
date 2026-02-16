@@ -1,0 +1,29 @@
+{
+  "session_id": "ce523b2c-d57a-459d-9875-020c1184d75e",
+  "created": 1770560934.8713713,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "strategist",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "t42_27",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "This reading describes the current pattern and what it asks of you. Choose your north.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "t42_27",
+          "note": "The Card: This card highlights a central theme. It suggests choose your north.. Treat this as guidance, not a fixed outcome."
+        }
+      ]
+    }
+  },
+  "chat": []
+}

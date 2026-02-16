@@ -1,0 +1,61 @@
+{
+  "session_id": "071bcb8d-7a44-4e04-936a-6afb5358bf17",
+  "created": 1771237846.5880249,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "WITNESS-1",
+        "reversed": false
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "MOTION-6",
+        "reversed": true
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "RESONANCE-5",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "Attention is power when it is clean. Storm: Choose nourishment, not sedation.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "WITNESS-1",
+          "note": "Attention is power when it is clean.\n\nOct watches the trace before it becomes story. It offers presence, not command.\n\nNoise; observe quietly."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "MOTION-6",
+          "note": "Storm: Choose nourishment, not sedation.\n\nYou\u2019re numbing with comfort or drifting into dependency.\n\nDon\u2019t be swayed."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "RESONANCE-5",
+          "note": "Return to the pulse.\n\nFrog is the pulse that says: keep going.\n\nNoise disrupts; simplify."
+        }
+      ],
+      "advice": [
+        "Information moves fast. External voices amplify. Verify, simplify, choose your signal.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

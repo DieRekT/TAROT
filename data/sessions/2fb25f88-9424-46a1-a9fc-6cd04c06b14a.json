@@ -1,0 +1,62 @@
+{
+  "session_id": "2fb25f88-9424-46a1-a9fc-6cd04c06b14a",
+  "created": 1770563621.958482,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "t42_01",
+        "reversed": false
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "t42_21",
+        "reversed": false
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "t42_25",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "This reading highlights a journey from grounding in reality to embracing your voice and ultimately considering the broader implications of your choices. The 'Country' card emphasizes the importance of stability and recognizing what is true in your life, which sets a solid foundation for the present. With the 'Cockatoo' in the present, there's a call for clear self-expression and asserting your needs, suggesting that your voice is a crucial tool in shaping your relationships and environment. Looking ahead to the 'Whale,' you are encouraged to think long-term, understanding that meaningful change often requires patience and a focus on legacy rather than immediate results.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "t42_01",
+          "note": "Ground yourself in the present to build a stable foundation.\n\nPractical guidance: Focus on what is tangible in your life and nurture those aspects.\nShadow aspect: Avoid getting lost in fantasies that distract from your current reality.\nConnection to question: This reflects the importance of recognizing the basics before seeking growth."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "t42_21",
+          "note": "Now is the time to express your needs and set boundaries clearly.\n\nPractical guidance: Communicate directly with those around you to advocate for yourself.\nShadow aspect: Be mindful that being loud does not equate to being powerful.\nConnection to question: This emphasizes the necessity of clear communication in your current situation."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "t42_25",
+          "note": "Consider your legacy and the long-term impact of your choices.\n\nPractical guidance: Invest time in decisions that contribute to your future goals and values.\nShadow aspect: Resist the urge to abandon your plans simply because progress feels slow.\nConnection to question: This indicates that the choices you make now will have lasting effects."
+        }
+      ],
+      "advice": [
+        "Identify one area in your life where you can ground yourself more effectively.",
+        "Practice a moment of self-advocacy by clearly stating a need or boundary in a current situation.",
+        "Reflect on a long-term goal and outline steps to nurture it over time."
+      ],
+      "theme": "The exploration of grounding in reality, self-expression, and long-term vision.",
+      "energy": "transitional",
+      "synthesis": "The cards collectively encourage a progression from grounding in reality to active self-advocacy, culminating in a focus on long-term vision. Each card builds upon the last: starting with a solid foundation ('Country'), moving to clear expression ('Cockatoo'), and ultimately considering the future implications of your actions ('Whale'). This journey illustrates the importance of being both present and future-oriented.",
+      "reflection_prompt": "What legacy do you want to create, and what steps can you take today to start building it?"
+    }
+  },
+  "chat": []
+}

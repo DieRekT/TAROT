@@ -1,0 +1,61 @@
+{
+  "session_id": "fe582b07-8455-42b4-97ca-4a2fc8fd2f50",
+  "created": 1771241455.574711,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "SOVEREIGN-5",
+        "reversed": true
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "THRESHOLD-6",
+        "reversed": true
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "THRESHOLD-5",
+        "reversed": true
+      }
+    ],
+    "result": {
+      "summary": "Storm: Show the line, then hold it. Storm: Look again\u2014slowly.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "SOVEREIGN-5",
+          "note": "Storm: Show the line, then hold it.\n\nYou\u2019re bluffing or staying silent until eruption.\n\nDecide."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "THRESHOLD-6",
+          "note": "Storm: Look again\u2014slowly.\n\nYou\u2019re stepping on the same pain again because you refuse to look down. Or you\u2019re seeing threat everywhere because you\u2019re tired.\n\nSpot the sting."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "THRESHOLD-5",
+          "note": "Storm: Hold the line. No exceptions.\n\nYou\u2019re over-controlling because you don\u2019t trust life. Or you\u2019re reckless because you\u2019re numb.\n\nAct instantly."
+        }
+      ],
+      "advice": [
+        "Truth arrives fast. The window is short. Act cleanly and decisively.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

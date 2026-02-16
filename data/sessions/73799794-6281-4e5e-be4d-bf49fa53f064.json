@@ -1,0 +1,77 @@
+{
+  "session_id": "73799794-6281-4e5e-be4d-bf49fa53f064",
+  "created": 1770561658.5216594,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "t42_01",
+        "reversed": false
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "t42_11",
+        "reversed": false
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "t42_20",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "This reading describes the current pattern and what it asks of you. Return to what is real and present. Your stability comes from tending what is already under your feet. Commit and move forward.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "t42_01",
+          "note": "Past: This card highlights a central theme. It suggests return to what is real and present. your stability comes from tending what is already under your feet.. Treat this as guidance, not a fixed outcome."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "t42_11",
+          "note": "Present: This card highlights a central theme. It suggests commit and move forward.. Treat this as guidance, not a fixed outcome."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "t42_20",
+          "note": "Future: This card highlights a central theme. It suggests think in years, not moments.. Treat this as guidance, not a fixed outcome."
+        }
+      ],
+      "advice": [
+        "Reflect on how these patterns connect to your current situation."
+      ]
+    }
+  },
+  "chat": [
+    {
+      "role": "user",
+      "content": "Tell me more about the Country card in the Past position",
+      "ts": 1770561673.9946978
+    },
+    {
+      "role": "assistant",
+      "content": "Regarding the Country in the Past position:\n\nThis card speaks to return to what is real and present. your stability comes from tending what is already under your feet.. Consider what what you must own and act on. in your current situation.\n\nThis card asks you to learn what this card asks you to learn right now.. How might this lesson show up in your daily life?\n\nWhat resonates most strongly with you about this card?",
+      "ts": 1770561673.9967825
+    },
+    {
+      "role": "user",
+      "content": "How do these cards work together?",
+      "ts": 1770561689.5793824
+    },
+    {
+      "role": "assistant",
+      "content": "Let's explore this reading more deeply.\n\nThe core message is: This reading describes the current pattern and what it asks of you. Return to what is real and present. Your stability comes from tending what is already under your feet. Commit and move forward.\n\nYou might want to explore:\n- How the cards interact with each other\n- Which card feels most relevant to your current situation\n- What patterns you notice across the positions\n\nWhich card or aspect of this reading would you like to explore further? You can ask about specific cards, their meanings, or how they relate to your life.",
+      "ts": 1770561689.5802689
+    }
+  ]
+}

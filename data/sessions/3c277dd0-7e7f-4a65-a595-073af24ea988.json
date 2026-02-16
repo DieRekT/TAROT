@@ -1,0 +1,155 @@
+{
+  "session_id": "3c277dd0-7e7f-4a65-a595-073af24ea988",
+  "created": 1770546189.7576833,
+  "reading": {
+    "spread_type": "celtic_cross",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Present",
+        "card_id": "t42_19",
+        "reversed": false
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Challenge",
+        "card_id": "t42_12",
+        "reversed": false
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Past",
+        "card_id": "t42_27",
+        "reversed": false
+      },
+      {
+        "slot_index": 3,
+        "slot_label": "Future",
+        "card_id": "t42_36",
+        "reversed": false
+      },
+      {
+        "slot_index": 4,
+        "slot_label": "Above",
+        "card_id": "t42_21",
+        "reversed": false
+      },
+      {
+        "slot_index": 5,
+        "slot_label": "Below",
+        "card_id": "t42_18",
+        "reversed": false
+      },
+      {
+        "slot_index": 6,
+        "slot_label": "Advice",
+        "card_id": "t42_12",
+        "reversed": false
+      },
+      {
+        "slot_index": 7,
+        "slot_label": "External",
+        "card_id": "t42_08",
+        "reversed": false
+      },
+      {
+        "slot_index": 8,
+        "slot_label": "Hopes/Fears",
+        "card_id": "t42_02",
+        "reversed": false
+      },
+      {
+        "slot_index": 9,
+        "slot_label": "Outcome",
+        "card_id": "t42_03",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "Spread captured. Replace deck/deck.json meanings with your brother's custom meanings for rich readings.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Present",
+          "card_id": "t42_19",
+          "note": "Upright meaning for 19."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Challenge",
+          "card_id": "t42_12",
+          "note": "Upright meaning for 12."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Past",
+          "card_id": "t42_27",
+          "note": "Upright meaning for 27."
+        },
+        {
+          "slot_index": 3,
+          "slot_label": "Future",
+          "card_id": "t42_36",
+          "note": "Upright meaning for 36."
+        },
+        {
+          "slot_index": 4,
+          "slot_label": "Above",
+          "card_id": "t42_21",
+          "note": "Upright meaning for 21."
+        },
+        {
+          "slot_index": 5,
+          "slot_label": "Below",
+          "card_id": "t42_18",
+          "note": "Upright meaning for 18."
+        },
+        {
+          "slot_index": 6,
+          "slot_label": "Advice",
+          "card_id": "t42_12",
+          "note": "Upright meaning for 12."
+        },
+        {
+          "slot_index": 7,
+          "slot_label": "External",
+          "card_id": "t42_08",
+          "note": "Upright meaning for 08."
+        },
+        {
+          "slot_index": 8,
+          "slot_label": "Hopes/Fears",
+          "card_id": "t42_02",
+          "note": "Upright meaning for 02."
+        },
+        {
+          "slot_index": 9,
+          "slot_label": "Outcome",
+          "card_id": "t42_03",
+          "note": "Upright meaning for 03."
+        }
+      ],
+      "advice": [
+        "Upright meaning for 19.",
+        "Upright meaning for 12.",
+        "Upright meaning for 27.",
+        "Upright meaning for 36.",
+        "Upright meaning for 21.",
+        "Upright meaning for 18."
+      ]
+    }
+  },
+  "chat": [
+    {
+      "role": "user",
+      "content": "?",
+      "ts": 1770546313.4894767
+    },
+    {
+      "role": "assistant",
+      "content": "Grounded in your current spread:\n\n- Present: Upright meaning for 19.\n- Challenge: Upright meaning for 12.\n- Past: Upright meaning for 27.\n- Future: Upright meaning for 36.\n- Above: Upright meaning for 21.\n- Below: Upright meaning for 18.\n- Advice: Upright meaning for 12.\n- External: Upright meaning for 08.\n- Hopes/Fears: Upright meaning for 02.\n- Outcome: Upright meaning for 03.\n\nNext steps:\n- Upright meaning for 19.\n- Upright meaning for 12.\n- Upright meaning for 27.\n- Upright meaning for 36.\n- Upright meaning for 21.\n- Upright meaning for 18.",
+      "ts": 1770546313.490552
+    }
+  ]
+}

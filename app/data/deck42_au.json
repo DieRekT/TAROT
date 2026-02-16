@@ -1,0 +1,1483 @@
+{
+  "schema_version": "tarot42-au-fauna-v1",
+  "mode": {
+    "reversal_meaning": {
+      "upright": "Clear",
+      "reversed": "Storm"
+    },
+    "overlay_mode": "draw_one_of_8",
+    "notes": "42 Australian animals. Reversal toggles Clear/Storm. One Element Overlay modifies timing + tone."
+  },
+  "overlays": [
+    {
+      "id": "WIND",
+      "name": "Wind",
+      "keywords": [
+        "messages",
+        "pressure",
+        "invisible forces",
+        "social weather"
+      ],
+      "effect": "Information moves fast. External voices amplify. Verify, simplify, choose your signal."
+    },
+    {
+      "id": "RAIN",
+      "name": "Rain",
+      "keywords": [
+        "cleansing",
+        "release",
+        "nourishment",
+        "soft reset"
+      ],
+      "effect": "Emotions wash through. Grief can move. Heal gently, restore the ground."
+    },
+    {
+      "id": "THUNDER",
+      "name": "Thunder",
+      "keywords": [
+        "warning",
+        "boundary test",
+        "consequence approaching"
+      ],
+      "effect": "A test is forming. Prepare structure and stance. Don’t wait for impact to decide."
+    },
+    {
+      "id": "LIGHTNING",
+      "name": "Lightning",
+      "keywords": [
+        "sudden insight",
+        "rupture",
+        "instant change"
+      ],
+      "effect": "Truth arrives fast. The window is short. Act cleanly and decisively."
+    },
+    {
+      "id": "FIRE",
+      "name": "Fire",
+      "keywords": [
+        "will",
+        "protection",
+        "refusal",
+        "burn-off"
+      ],
+      "effect": "Purification by heat. Cut what’s false. Enforce the boundary; protect the core."
+    },
+    {
+      "id": "FOG",
+      "name": "Fog",
+      "keywords": [
+        "uncertainty",
+        "veiling",
+        "wait-and-watch"
+      ],
+      "effect": "Visibility is low. Delay commitments. Observe patterns until clarity returns."
+    },
+    {
+      "id": "DROUGHT",
+      "name": "Drought",
+      "keywords": [
+        "scarcity",
+        "endurance",
+        "conserve energy"
+      ],
+      "effect": "Resources are limited. Reduce inputs. Ration effort. Survive the season wisely."
+    },
+    {
+      "id": "TIDE",
+      "name": "Tide",
+      "keywords": [
+        "cycles",
+        "return",
+        "timing",
+        "pull"
+      ],
+      "effect": "What returns must be met correctly. Timing rules everything. Expect recurrence."
+    }
+  ],
+  "ranks": [
+    {
+      "rank": 1,
+      "name": "Seed",
+      "scale_degree": "Do",
+      "glyph": "Point"
+    },
+    {
+      "rank": 2,
+      "name": "Edge",
+      "scale_degree": "Re",
+      "glyph": "Line"
+    },
+    {
+      "rank": 3,
+      "name": "Lens",
+      "scale_degree": "Mi",
+      "glyph": "Triangle"
+    },
+    {
+      "rank": 4,
+      "name": "Thread",
+      "scale_degree": "Fa",
+      "glyph": "Square"
+    },
+    {
+      "rank": 5,
+      "name": "Pulse",
+      "scale_degree": "So",
+      "glyph": "Pentagon"
+    },
+    {
+      "rank": 6,
+      "name": "Mirror",
+      "scale_degree": "La",
+      "glyph": "Hexagon"
+    },
+    {
+      "rank": 7,
+      "name": "Crown",
+      "scale_degree": "Ti",
+      "glyph": "7-Star"
+    }
+  ],
+  "suits": [
+    {
+      "id": "THRESHOLD",
+      "name": "Threshold",
+      "role": "Guardians of Entry",
+      "domain": "Boundaries, consent, access, terms of approach."
+    },
+    {
+      "id": "TRACE",
+      "name": "Trace",
+      "role": "Keepers of Track & Memory",
+      "domain": "Patterns, evidence, history, the returning lesson."
+    },
+    {
+      "id": "RESONANCE",
+      "name": "Resonance",
+      "role": "Tuning & Signal Creatures",
+      "domain": "Alignment, truth-feel, coherence, harmonic calibration."
+    },
+    {
+      "id": "MOTION",
+      "name": "Motion",
+      "role": "Timing & Movement Masters",
+      "domain": "Action, restraint, momentum, the right moment."
+    },
+    {
+      "id": "WITNESS",
+      "name": "Witness",
+      "role": "Observers & Night-Seers",
+      "domain": "Non-interference awareness, perception, clean attention."
+    },
+    {
+      "id": "SOVEREIGN",
+      "name": "Sovereign",
+      "role": "Lawbearers of Self",
+      "domain": "Autonomy, self-law, chosen belonging, unowned choice."
+    }
+  ],
+  "cards": [
+    {
+      "id": "THRESHOLD-1",
+      "suit": "THRESHOLD",
+      "rank": 1,
+      "animal": "Bull Ant",
+      "title": "The First Boundary Bites",
+      "essence": "The first boundary bites.",
+      "clear": "You feel the edge before you can name it. Bull Ant arrives as a small, undeniable truth: something is too close. Your body is wiser than your politeness.",
+      "storm": "You’re letting people step on you, then calling it patience. Or you’re snapping at shadows because you’ve been ignored too long.",
+      "when": [
+        "A new person/offer approaches fast",
+        "Your nervous system tightens for ‘no reason’",
+        "You must set terms early"
+      ],
+      "shadow": [
+        "Overreacting",
+        "People-pleasing"
+      ],
+      "boundary_note": "A clean sting now prevents a wound later.",
+      "key_message": "Protect the gate while it’s still a gate.",
+      "overlays": {
+        "WIND": "Messages push you; verify.",
+        "RAIN": "Soften after the no.",
+        "THUNDER": "Boundary test incoming.",
+        "LIGHTNING": "Instant clarity.",
+        "FIRE": "Refusal strengthens.",
+        "FOG": "Wait; don’t decide yet.",
+        "DROUGHT": "Conserve access.",
+        "TIDE": "This boundary will return; set it right."
+      }
+    },
+    {
+      "id": "THRESHOLD-2",
+      "suit": "THRESHOLD",
+      "rank": 2,
+      "animal": "Eastern Brown Snake",
+      "title": "Respect the Unseen Line",
+      "essence": "Respect the line you cannot see.",
+      "clear": "This is not fear—this is precision. Brown Snake teaches: don’t reach where you haven’t looked. Move slowly. Confirm the ground.",
+      "storm": "You’re walking into risk because you want to prove you’re fine. Or you’re calling everything dangerous to avoid intimacy.",
+      "when": [
+        "A situation feels ‘fine’ but isn’t",
+        "Trust is being demanded, not earned",
+        "You must choose caution without panic"
+      ],
+      "shadow": [
+        "Bravado",
+        "Paranoia"
+      ],
+      "boundary_note": "Distance is wisdom when the pattern is unknown.",
+      "key_message": "Respect the unseen boundary.",
+      "overlays": {
+        "WIND": "Gossip/pressure; ignore.",
+        "RAIN": "Let fear wash out; keep rules.",
+        "THUNDER": "Warning becomes real.",
+        "LIGHTNING": "Spot the danger fast.",
+        "FIRE": "Don’t escalate.",
+        "FOG": "Assume uncertainty.",
+        "DROUGHT": "Don’t waste energy on risk.",
+        "TIDE": "Risk cycles; learn the season."
+      }
+    },
+    {
+      "id": "THRESHOLD-3",
+      "suit": "THRESHOLD",
+      "rank": 3,
+      "animal": "Cassowary",
+      "title": "Power Decides Entry",
+      "essence": "Power decides entry.",
+      "clear": "Cassowary is sovereign force: calm until crossed. It does not argue for its boundary. It simply is the boundary.",
+      "storm": "You’re using intimidation where clarity would work. Or you’re shrinking because you forgot your size.",
+      "when": [
+        "Someone tests your limits repeatedly",
+        "You must protect something sacred",
+        "Your ‘no’ must be embodied"
+      ],
+      "shadow": [
+        "Dominance games",
+        "Collapse"
+      ],
+      "boundary_note": "A boundary is not a debate club.",
+      "key_message": "Stand. That is enough.",
+      "overlays": {
+        "WIND": "Ignore provocation.",
+        "RAIN": "Cool the heat; keep stance.",
+        "THUNDER": "Prepare for impact.",
+        "LIGHTNING": "One decisive move.",
+        "FIRE": "Boundary burns clean.",
+        "FOG": "Don’t chase; hold position.",
+        "DROUGHT": "Protect resources.",
+        "TIDE": "Defend what returns."
+      }
+    },
+    {
+      "id": "THRESHOLD-4",
+      "suit": "THRESHOLD",
+      "rank": 4,
+      "animal": "Funnel-web Spider",
+      "title": "The Hidden Contract",
+      "essence": "The hidden contract.",
+      "clear": "Funnel-web reminds you: some dangers are quiet. The trap is not the web—it’s the assumption. Read the fine print. Test the tone.",
+      "storm": "You’re stuck in a sticky agreement and calling it loyalty. Or you’re suspicious of everything and letting nothing live.",
+      "when": [
+        "Terms are unclear",
+        "Something ‘too good’ appears",
+        "You need to verify before committing"
+      ],
+      "shadow": [
+        "Naïveté",
+        "Mistrust addiction"
+      ],
+      "boundary_note": "If it must be hidden, it isn’t clean.",
+      "key_message": "Confirm before you enter.",
+      "overlays": {
+        "WIND": "Charm distracts; slow down.",
+        "RAIN": "Wash away glamours.",
+        "THUNDER": "Trap activates.",
+        "LIGHTNING": "See the web instantly.",
+        "FIRE": "Burn the contract.",
+        "FOG": "Pause signatures.",
+        "DROUGHT": "Reduce obligations.",
+        "TIDE": "Old traps repeat."
+      }
+    },
+    {
+      "id": "THRESHOLD-5",
+      "suit": "THRESHOLD",
+      "rank": 5,
+      "animal": "Saltwater Crocodile",
+      "title": "Ancient Law at the Waterline",
+      "essence": "Ancient law at the waterline.",
+      "clear": "Crocodile is the hard edge that keeps you alive. It teaches timing and consequence: some places are not yours to wander.",
+      "storm": "You’re over-controlling because you don’t trust life. Or you’re reckless because you’re numb.",
+      "when": [
+        "High-stakes boundary required",
+        "You must enforce consequences",
+        "Near a point of no return"
+      ],
+      "shadow": [
+        "Tyranny",
+        "Recklessness"
+      ],
+      "boundary_note": "Power without rule becomes hunger.",
+      "key_message": "Hold the line. No exceptions.",
+      "overlays": {
+        "WIND": "Don’t be talked into risk.",
+        "RAIN": "Cool impulse.",
+        "THUNDER": "Enforcement moment.",
+        "LIGHTNING": "Act instantly.",
+        "FIRE": "Final refusal.",
+        "FOG": "Visibility low; retreat.",
+        "DROUGHT": "Protect core reserves.",
+        "TIDE": "Timing is everything."
+      }
+    },
+    {
+      "id": "THRESHOLD-6",
+      "suit": "THRESHOLD",
+      "rank": 6,
+      "animal": "Stonefish",
+      "title": "The Ordinary Disguises the Sting",
+      "essence": "The boundary disguised as ordinary.",
+      "clear": "Stonefish appears when danger hides in plain sight. Not everything sharp looks sharp. You must trust subtle warning signals.",
+      "storm": "You’re stepping on the same pain again because you refuse to look down. Or you’re seeing threat everywhere because you’re tired.",
+      "when": [
+        "Familiar situations conceal harm",
+        "You must check assumptions",
+        "Your ‘normal’ needs auditing"
+      ],
+      "shadow": [
+        "Blindness",
+        "Hypervigilance"
+      ],
+      "boundary_note": "Don’t touch what you haven’t truly seen.",
+      "key_message": "Look again—slowly.",
+      "overlays": {
+        "WIND": "Noise masks signals.",
+        "RAIN": "Flush toxins; recover.",
+        "THUNDER": "Consequence nears.",
+        "LIGHTNING": "Spot the sting.",
+        "FIRE": "Cut contact.",
+        "FOG": "Delay action.",
+        "DROUGHT": "Avoid needless exposure.",
+        "TIDE": "Old harm returns cyclically."
+      }
+    },
+    {
+      "id": "THRESHOLD-7",
+      "suit": "THRESHOLD",
+      "rank": 7,
+      "animal": "Blue-ringed Octopus",
+      "title": "Glow and Be Untouched",
+      "essence": "Beauty becomes warning.",
+      "clear": "This is the sacred ‘no’ with elegance. The rings say: I will not be handled. Your boundary is allowed to be luminous.",
+      "storm": "You’re using allure to trap others, or letting allure trap you.",
+      "when": [
+        "You must enforce a boundary without apology",
+        "Charm hides danger",
+        "Learning to be untouchable when needed"
+      ],
+      "shadow": [
+        "Seduction games",
+        "Ignoring red flags"
+      ],
+      "boundary_note": "The brightest signal is often the boundary.",
+      "key_message": "Glow, and be untouched.",
+      "overlays": {
+        "WIND": "Don’t negotiate.",
+        "RAIN": "Release the need to please.",
+        "THUNDER": "Boundary test.",
+        "LIGHTNING": "Instant ‘no’.",
+        "FIRE": "Final severing.",
+        "FOG": "Withdraw.",
+        "DROUGHT": "Protect energy.",
+        "TIDE": "This lesson repeats until learned."
+      }
+    },
+    {
+      "id": "TRACE-1",
+      "suit": "TRACE",
+      "rank": 1,
+      "animal": "Wombat",
+      "title": "The First Tunnel",
+      "essence": "The first tunnel.",
+      "clear": "Wombat begins where others overlook. It teaches: build your foundation underground—quiet, strong, enduring.",
+      "storm": "You’re hiding when you should be building. Or building without leaving airholes for joy.",
+      "when": [
+        "You need a home base",
+        "A cycle begins quietly",
+        "Resilience must be practical"
+      ],
+      "shadow": [
+        "Avoidance",
+        "Stubbornness"
+      ],
+      "boundary_note": "Build safe shelter, not a prison.",
+      "key_message": "Start beneath the noise.",
+      "overlays": {
+        "WIND": "Ignore chatter.",
+        "RAIN": "Nourish foundations.",
+        "THUNDER": "Structural test.",
+        "LIGHTNING": "See the weak beam.",
+        "FIRE": "Reinforce boundaries.",
+        "FOG": "Work quietly.",
+        "DROUGHT": "Slow and conserve.",
+        "TIDE": "Cycles return to home."
+      }
+    },
+    {
+      "id": "TRACE-2",
+      "suit": "TRACE",
+      "rank": 2,
+      "animal": "Bilby",
+      "title": "The Return of the Rare",
+      "essence": "The return of the rare.",
+      "clear": "Bilby says: your path may be fragile, but it’s real. Protect the thing that doesn’t thrive in crowds.",
+      "storm": "You’re abandoning your rare truth for convenience. Or you’re clinging to rarity as identity.",
+      "when": [
+        "Uniqueness needs protection",
+        "Delicate goals",
+        "Quiet persistence"
+      ],
+      "shadow": [
+        "Self-neglect",
+        "Elitism"
+      ],
+      "boundary_note": "Guard the tender track.",
+      "key_message": "Protect what is rare in you.",
+      "overlays": {
+        "WIND": "Stay private.",
+        "RAIN": "Heal the tender places.",
+        "THUNDER": "Defend it.",
+        "LIGHTNING": "Name it.",
+        "FIRE": "Burn distractions.",
+        "FOG": "Keep moving silently.",
+        "DROUGHT": "Protect resources.",
+        "TIDE": "Rare truths return."
+      }
+    },
+    {
+      "id": "TRACE-3",
+      "suit": "TRACE",
+      "rank": 3,
+      "animal": "Platypus",
+      "title": "The Paradox Track",
+      "essence": "The paradox track.",
+      "clear": "Platypus teaches: reality doesn’t owe you simplicity. Follow what’s true even if it doesn’t match categories.",
+      "storm": "Confusion becomes an excuse. Or you over-explain the miracle until it dies.",
+      "when": [
+        "Mixed signals",
+        "Identity complexity",
+        "Unusual solutions"
+      ],
+      "shadow": [
+        "Indecision",
+        "Over-intellectualizing"
+      ],
+      "boundary_note": "Let strange truth remain true.",
+      "key_message": "Trust the odd shape of reality.",
+      "overlays": {
+        "WIND": "Don’t argue it.",
+        "RAIN": "Let it settle.",
+        "THUNDER": "Truth insists.",
+        "LIGHTNING": "Pattern is recognised.",
+        "FIRE": "Cut labels.",
+        "FOG": "Allow mystery.",
+        "DROUGHT": "Don’t waste energy proving.",
+        "TIDE": "Paradox repeats."
+      }
+    },
+    {
+      "id": "TRACE-4",
+      "suit": "TRACE",
+      "rank": 4,
+      "animal": "Koala",
+      "title": "The Slow Inheritance",
+      "essence": "The slow inheritance.",
+      "clear": "Koala is the memory of the body: routines, safety, familiarity. It appears when you must honor your pace.",
+      "storm": "You’re stuck in comfort that is slowly starving you. Or rejecting stability because you confuse it with prison.",
+      "when": [
+        "Rest",
+        "Habit",
+        "Long-term health"
+      ],
+      "shadow": [
+        "Stagnation",
+        "Instability addiction"
+      ],
+      "boundary_note": "Comfort must feed you, not numb you.",
+      "key_message": "Choose the habitat that sustains.",
+      "overlays": {
+        "WIND": "Don’t be rushed.",
+        "RAIN": "Restore.",
+        "THUNDER": "Habit consequence.",
+        "LIGHTNING": "See what’s toxic.",
+        "FIRE": "Burn the old routine.",
+        "FOG": "Wait.",
+        "DROUGHT": "Conserve.",
+        "TIDE": "Habits cycle back."
+      }
+    },
+    {
+      "id": "TRACE-5",
+      "suit": "TRACE",
+      "rank": 5,
+      "animal": "Thorny Devil",
+      "title": "The Armored Lesson",
+      "essence": "The armored lesson.",
+      "clear": "Thorny Devil is the living receipt. Every spine is a past boundary learned. Learn once, and encode it.",
+      "storm": "You’re spiking everyone because you’re still hurt. Or shedding protection too soon.",
+      "when": [
+        "Protection",
+        "Hard-won wisdom",
+        "Earned boundaries"
+      ],
+      "shadow": [
+        "Bitterness",
+        "Naïveté"
+      ],
+      "boundary_note": "Armor is for truth, not for vengeance.",
+      "key_message": "Let your scars become maps, not weapons.",
+      "overlays": {
+        "WIND": "Don’t take bait.",
+        "RAIN": "Soften under armor.",
+        "THUNDER": "Defensive test.",
+        "LIGHTNING": "Spot the repeat.",
+        "FIRE": "Cut contact.",
+        "FOG": "Hold.",
+        "DROUGHT": "Endure.",
+        "TIDE": "Lesson returns."
+      }
+    },
+    {
+      "id": "TRACE-6",
+      "suit": "TRACE",
+      "rank": 6,
+      "animal": "Frilled-neck Lizard",
+      "title": "The Display of Warning",
+      "essence": "The display of warning.",
+      "clear": "The frill is not vanity—it’s signal. This card appears when your boundary must be visible to prevent escalation.",
+      "storm": "You’re performing threat without real action. Or you’re staying silent until you explode.",
+      "when": [
+        "Escalation risk",
+        "Signaling needs",
+        "Conflict prevention"
+      ],
+      "shadow": [
+        "Bluffing",
+        "Suppression"
+      ],
+      "boundary_note": "Signal early to avoid damage.",
+      "key_message": "Show the boundary before you need the bite.",
+      "overlays": {
+        "WIND": "Don’t argue.",
+        "RAIN": "Cool emotion.",
+        "THUNDER": "Conflict rises.",
+        "LIGHTNING": "Decide fast.",
+        "FIRE": "Final stance.",
+        "FOG": "Withdraw.",
+        "DROUGHT": "Keep energy.",
+        "TIDE": "Patterns repeat."
+      }
+    },
+    {
+      "id": "TRACE-7",
+      "suit": "TRACE",
+      "rank": 7,
+      "animal": "Tasmanian Devil",
+      "title": "Truth Consumes Illusion",
+      "essence": "The truth that consumes illusion.",
+      "clear": "Tasmanian Devil appears when denial is over. It brings raw reality, cleansing by confrontation.",
+      "storm": "Rage is driving you. Or you’re feeding on chaos because it feels like power.",
+      "when": [
+        "Endings",
+        "Detox",
+        "Brutal clarity"
+      ],
+      "shadow": [
+        "Destruction addiction",
+        "Avoidance of grief"
+      ],
+      "boundary_note": "Let truth eat lies, not your life.",
+      "key_message": "Stop pretending. Start cleansing.",
+      "overlays": {
+        "WIND": "Ignore provokers.",
+        "RAIN": "Grief release.",
+        "THUNDER": "Final warning.",
+        "LIGHTNING": "Instant truth.",
+        "FIRE": "Burn falsehood.",
+        "FOG": "Don’t act blindly.",
+        "DROUGHT": "Conserve after purge.",
+        "TIDE": "Cycle completes."
+      }
+    },
+    {
+      "id": "RESONANCE-1",
+      "suit": "RESONANCE",
+      "rank": 1,
+      "animal": "Lyrebird",
+      "title": "Echo Becomes Voice",
+      "essence": "The first true imitation becomes art.",
+      "clear": "Lyrebird says: you are allowed to learn by echoing. Copy what is noble until it becomes yours.",
+      "storm": "You’re mimicking to survive and losing yourself. Or rejecting learning because pride is loud.",
+      "when": [
+        "Learning",
+        "Adaptation",
+        "Voice forming"
+      ],
+      "shadow": [
+        "Mask",
+        "Arrogance"
+      ],
+      "boundary_note": "Borrow skill, not identity.",
+      "key_message": "Echo the good until it’s yours.",
+      "overlays": {
+        "WIND": "Too many voices; choose one.",
+        "RAIN": "Soft growth.",
+        "THUNDER": "Identity test.",
+        "LIGHTNING": "Voice clicks.",
+        "FIRE": "Shed masks.",
+        "FOG": "Practice quietly.",
+        "DROUGHT": "Simplify.",
+        "TIDE": "Return to fundamentals."
+      }
+    },
+    {
+      "id": "RESONANCE-2",
+      "suit": "RESONANCE",
+      "rank": 2,
+      "animal": "Australian Magpie",
+      "title": "Territory Song",
+      "essence": "Territory song.",
+      "clear": "Magpie arrives when your voice must mark your space. Not aggression—presence.",
+      "storm": "You’re swooping because you’re afraid. Or you’re silent while being invaded.",
+      "when": [
+        "Speaking up",
+        "Claiming space",
+        "Social boundaries"
+      ],
+      "shadow": [
+        "Hostility",
+        "Muteness"
+      ],
+      "boundary_note": "Speak once, clearly.",
+      "key_message": "Sing your boundary.",
+      "overlays": {
+        "WIND": "Words travel; be precise.",
+        "RAIN": "Soften tone.",
+        "THUNDER": "Conflict possible.",
+        "LIGHTNING": "Sharp statement.",
+        "FIRE": "Final ‘no’.",
+        "FOG": "Delay conversation.",
+        "DROUGHT": "Conserve speech.",
+        "TIDE": "Repeating disputes."
+      }
+    },
+    {
+      "id": "RESONANCE-3",
+      "suit": "RESONANCE",
+      "rank": 3,
+      "animal": "Kookaburra",
+      "title": "Laughter Cuts the Spell",
+      "essence": "Laughter as signal.",
+      "clear": "Kookaburra teaches: truth can arrive as a laugh. The nervous system releases, and clarity appears.",
+      "storm": "You’re mocking to avoid pain. Or taking everything so seriously you can’t hear truth.",
+      "when": [
+        "Tension",
+        "Perspective shift",
+        "Breaking spells"
+      ],
+      "shadow": [
+        "Cruelty",
+        "Rigidity"
+      ],
+      "boundary_note": "Humor must free, not humiliate.",
+      "key_message": "Let laughter cut the illusion.",
+      "overlays": {
+        "WIND": "Don’t gossip.",
+        "RAIN": "Gentle humor.",
+        "THUNDER": "Don’t provoke.",
+        "LIGHTNING": "One joke reveals truth.",
+        "FIRE": "Burn shame.",
+        "FOG": "Pause.",
+        "DROUGHT": "Lighten load.",
+        "TIDE": "Laugh old stories loose."
+      }
+    },
+    {
+      "id": "RESONANCE-4",
+      "suit": "RESONANCE",
+      "rank": 4,
+      "animal": "Cicada",
+      "title": "The Season Announces Itself",
+      "essence": "The season announces itself.",
+      "clear": "Cicada appears when timing is non-negotiable. You can’t force the season early. Prepare, then rise.",
+      "storm": "You’re rushing emergence or refusing it. Either way, you miss the right song.",
+      "when": [
+        "Timing",
+        "Patience",
+        "Inevitable change"
+      ],
+      "shadow": [
+        "Impatience",
+        "Fear of exposure"
+      ],
+      "boundary_note": "Respect the season of your life.",
+      "key_message": "Emerge when it’s time.",
+      "overlays": {
+        "WIND": "Signals shift; listen.",
+        "RAIN": "Soft emergence.",
+        "THUNDER": "Pressure builds.",
+        "LIGHTNING": "Sudden start.",
+        "FIRE": "Bold move.",
+        "FOG": "Wait.",
+        "DROUGHT": "Delay; conserve.",
+        "TIDE": "Cycles return."
+      }
+    },
+    {
+      "id": "RESONANCE-5",
+      "suit": "RESONANCE",
+      "rank": 5,
+      "animal": "Green Tree Frog",
+      "title": "Return to the Pulse",
+      "essence": "The clean rhythm of life.",
+      "clear": "Frog is the pulse that says: keep going.",
+      "storm": "You’re forcing rhythm with stimulants, stress, or chaos.",
+      "when": [
+        "Health",
+        "Daily rituals",
+        "Steady progress"
+      ],
+      "shadow": [
+        "Burnout",
+        "Stagnation"
+      ],
+      "boundary_note": "Build rhythm that sustains.",
+      "key_message": "Return to the pulse.",
+      "overlays": {
+        "WIND": "Noise disrupts; simplify.",
+        "RAIN": "Healing.",
+        "THUNDER": "Don’t panic.",
+        "LIGHTNING": "Reset instantly.",
+        "FIRE": "Burn bad habits.",
+        "FOG": "Sleep.",
+        "DROUGHT": "Slow.",
+        "TIDE": "Routine cycles."
+      }
+    },
+    {
+      "id": "RESONANCE-6",
+      "suit": "RESONANCE",
+      "rank": 6,
+      "animal": "Humpback Whale",
+      "title": "Song Across Distance",
+      "essence": "Song across distance.",
+      "clear": "Whale appears when your truth is larger than your current shore. Long journeys. Deep memory. Sound that guides.",
+      "storm": "You’re longing without moving. Or moving without listening.",
+      "when": [
+        "Migration",
+        "Calling",
+        "Big life chapters"
+      ],
+      "shadow": [
+        "Nostalgia trap",
+        "Restlessness"
+      ],
+      "boundary_note": "Let your call guide your route.",
+      "key_message": "Follow the song, not the noise.",
+      "overlays": {
+        "WIND": "External voices; ignore.",
+        "RAIN": "Grief cleans.",
+        "THUNDER": "Ocean shift.",
+        "LIGHTNING": "Route changes.",
+        "FIRE": "Decide.",
+        "FOG": "Navigate slowly.",
+        "DROUGHT": "Conserve.",
+        "TIDE": "Move with cycles."
+      }
+    },
+    {
+      "id": "RESONANCE-7",
+      "suit": "RESONANCE",
+      "rank": 7,
+      "animal": "Corroboree Frog",
+      "title": "Guard the Rare Song",
+      "essence": "Sacred signal in danger.",
+      "clear": "This is the rare note that must be protected. Your gift is not for everyone.",
+      "storm": "You’re exposing your sacred thing to careless hands. Or hiding it so deeply it can’t live.",
+      "when": [
+        "Sacred work",
+        "Vulnerability",
+        "Protection of gifts"
+      ],
+      "shadow": [
+        "Overexposure",
+        "Self-erasure"
+      ],
+      "boundary_note": "Keep the sacred in the right habitat.",
+      "key_message": "Guard the rare song.",
+      "overlays": {
+        "WIND": "Stay private.",
+        "RAIN": "Nurture.",
+        "THUNDER": "Defend.",
+        "LIGHTNING": "Name it.",
+        "FIRE": "Remove threats.",
+        "FOG": "Quiet incubation.",
+        "DROUGHT": "Protect energy.",
+        "TIDE": "Renewal cycles."
+      }
+    },
+    {
+      "id": "MOTION-1",
+      "suit": "MOTION",
+      "rank": 1,
+      "animal": "Red Kangaroo",
+      "title": "The First Leap",
+      "essence": "The first leap.",
+      "clear": "Begin. Not loudly—cleanly.",
+      "storm": "You’re hopping to escape, not to arrive.",
+      "when": [
+        "Starting",
+        "Courage",
+        "Direction"
+      ],
+      "shadow": [
+        "Impulsive flight",
+        "Paralysis"
+      ],
+      "boundary_note": "Don’t leap to please.",
+      "key_message": "Leap toward truth.",
+      "overlays": {
+        "WIND": "Don’t be pushed.",
+        "RAIN": "Recover.",
+        "THUNDER": "Timing test.",
+        "LIGHTNING": "Go now.",
+        "FIRE": "Commit.",
+        "FOG": "Wait.",
+        "DROUGHT": "Conserve.",
+        "TIDE": "Cycles of action."
+      }
+    },
+    {
+      "id": "MOTION-2",
+      "suit": "MOTION",
+      "rank": 2,
+      "animal": "Wallaby",
+      "title": "Small Steps, True Path",
+      "essence": "Small steps, true path.",
+      "clear": "Wallaby teaches incremental movement—quiet competence.",
+      "storm": "You’re ‘busy’ with no direction.",
+      "when": [
+        "Progress",
+        "Practice",
+        "Gentle momentum"
+      ],
+      "shadow": [
+        "Scattered effort",
+        "Self-doubt"
+      ],
+      "boundary_note": "Direction matters more than speed.",
+      "key_message": "Advance without forcing.",
+      "overlays": {
+        "WIND": "Ignore distractions.",
+        "RAIN": "Steady care.",
+        "THUNDER": "Don’t rush.",
+        "LIGHTNING": "One correction.",
+        "FIRE": "Cut procrastination.",
+        "FOG": "Slow.",
+        "DROUGHT": "Minimal effort.",
+        "TIDE": "Pace yourself."
+      }
+    },
+    {
+      "id": "MOTION-3",
+      "suit": "MOTION",
+      "rank": 3,
+      "animal": "Emu",
+      "title": "The Long Stride",
+      "essence": "The long stride.",
+      "clear": "Emu is endurance with purpose. Eyes forward. Keep moving.",
+      "storm": "You’re running from something. Or stuck because you fear distance.",
+      "when": [
+        "Long projects",
+        "Stamina",
+        "Commitment"
+      ],
+      "shadow": [
+        "Avoidance running",
+        "Quitting early"
+      ],
+      "boundary_note": "Don’t confuse speed with escape.",
+      "key_message": "Walk the long road.",
+      "overlays": {
+        "WIND": "Don’t listen to hecklers.",
+        "RAIN": "Rest when needed.",
+        "THUNDER": "Pressure rises.",
+        "LIGHTNING": "Route shift.",
+        "FIRE": "Push through.",
+        "FOG": "Navigate carefully.",
+        "DROUGHT": "Ration.",
+        "TIDE": "Travel with cycles."
+      }
+    },
+    {
+      "id": "MOTION-4",
+      "suit": "MOTION",
+      "rank": 4,
+      "animal": "Perentie (Goanna)",
+      "title": "Stillness as Strategy",
+      "essence": "The ambush of timing.",
+      "clear": "Perentie teaches: stillness is strategy. Move when the opening is real.",
+      "storm": "You’re waiting forever because fear calls itself ‘timing.’ Or you strike too early.",
+      "when": [
+        "Strategy",
+        "Patience",
+        "Decisive moments"
+      ],
+      "shadow": [
+        "Procrastination",
+        "Premature action"
+      ],
+      "boundary_note": "Wait for the true opening.",
+      "key_message": "Strike only when it’s ripe.",
+      "overlays": {
+        "WIND": "Ignore bait.",
+        "RAIN": "Cool impulse.",
+        "THUNDER": "Act soon.",
+        "LIGHTNING": "Instant window.",
+        "FIRE": "Decisive cut.",
+        "FOG": "Don’t strike.",
+        "DROUGHT": "Save energy.",
+        "TIDE": "Time with cycles."
+      }
+    },
+    {
+      "id": "MOTION-5",
+      "suit": "MOTION",
+      "rank": 5,
+      "animal": "Green Sea Turtle",
+      "title": "The Pilgrimage",
+      "essence": "The pilgrimage.",
+      "clear": "Turtle returns home by forces it cannot see but always trusts.",
+      "storm": "You’re off-course because you’re chasing surface noise.",
+      "when": [
+        "Destiny paths",
+        "Homecoming",
+        "Slow certainty"
+      ],
+      "shadow": [
+        "Drifting",
+        "Rushing"
+      ],
+      "boundary_note": "Don’t abandon your route for applause.",
+      "key_message": "Follow your inner compass.",
+      "overlays": {
+        "WIND": "Currents mislead.",
+        "RAIN": "Restore.",
+        "THUNDER": "Sea change.",
+        "LIGHTNING": "Course correction.",
+        "FIRE": "Commit to route.",
+        "FOG": "Go slow.",
+        "DROUGHT": "Conserve.",
+        "TIDE": "Trust cycles."
+      }
+    },
+    {
+      "id": "MOTION-6",
+      "suit": "MOTION",
+      "rank": 6,
+      "animal": "Dugong",
+      "title": "Nourishment, Not Sedation",
+      "essence": "Gentle motion, deep need.",
+      "clear": "Dugong is a reminder: softness is not weakness. Move with care.",
+      "storm": "You’re numbing with comfort or drifting into dependency.",
+      "when": [
+        "Rest",
+        "Nourishment",
+        "Emotional pacing"
+      ],
+      "shadow": [
+        "Complacency",
+        "Self-neglect"
+      ],
+      "boundary_note": "Comfort must serve life, not replace it.",
+      "key_message": "Choose nourishment, not sedation.",
+      "overlays": {
+        "WIND": "Don’t be swayed.",
+        "RAIN": "Healing.",
+        "THUNDER": "Wake-up call.",
+        "LIGHTNING": "Clarity.",
+        "FIRE": "Cut excess.",
+        "FOG": "Sleep, don’t decide.",
+        "DROUGHT": "Reduce intake.",
+        "TIDE": "Comfort cycles."
+      }
+    },
+    {
+      "id": "MOTION-7",
+      "suit": "MOTION",
+      "rank": 7,
+      "animal": "Box Jellyfish",
+      "title": "Respect the Risk",
+      "essence": "Lethal timing in clear water.",
+      "clear": "Jellyfish appears when you must respect danger even in beauty. Timing is everything; one mistake costs.",
+      "storm": "You’re ignoring risk because you want the reward. Or afraid to swim at all.",
+      "when": [
+        "High stakes",
+        "Boundaries + action",
+        "Irreversible choices"
+      ],
+      "shadow": [
+        "Recklessness",
+        "Avoidance"
+      ],
+      "boundary_note": "Don’t test what can ruin you.",
+      "key_message": "Respect the risk. Choose cleanly.",
+      "overlays": {
+        "WIND": "Don’t be persuaded.",
+        "RAIN": "Recover after shock.",
+        "THUNDER": "Warning becomes real.",
+        "LIGHTNING": "Instant decision.",
+        "FIRE": "Hard boundary.",
+        "FOG": "Exit the water.",
+        "DROUGHT": "Protect energy.",
+        "TIDE": "Risk returns seasonally."
+      }
+    },
+    {
+      "id": "WITNESS-1",
+      "suit": "WITNESS",
+      "rank": 1,
+      "animal": "Octopus (Octave-pus)",
+      "title": "Attention Without Command",
+      "essence": "Distributed awareness touches the world lightly.",
+      "clear": "Oct watches the trace before it becomes story. It offers presence, not command.",
+      "storm": "You’re drowning in sensitivity, carrying what isn’t yours.",
+      "when": [
+        "Awareness precedes action",
+        "Observation over response",
+        "Pattern recognised"
+      ],
+      "shadow": [
+        "Dissociation",
+        "Overwhelm"
+      ],
+      "boundary_note": "Witness lightly—do not carry the whole ocean.",
+      "key_message": "Attention is power when it is clean.",
+      "overlays": {
+        "WIND": "Noise; observe quietly.",
+        "RAIN": "Release overload.",
+        "THUNDER": "Hold steady.",
+        "LIGHTNING": "Insight.",
+        "FIRE": "Cut interference.",
+        "FOG": "Wait.",
+        "DROUGHT": "Reduce inputs.",
+        "TIDE": "Cycles become visible."
+      }
+    },
+    {
+      "id": "WITNESS-2",
+      "suit": "WITNESS",
+      "rank": 2,
+      "animal": "Tawny Frogmouth",
+      "title": "Silence is Strategy",
+      "essence": "Stillness that sees.",
+      "clear": "Frogmouth teaches camouflage as wisdom: don’t announce yourself. Watch.",
+      "storm": "You’re hiding when you should act. Or acting to avoid being seen.",
+      "when": [
+        "Discretion",
+        "Safety",
+        "Observing truth"
+      ],
+      "shadow": [
+        "Avoidance",
+        "Paranoia"
+      ],
+      "boundary_note": "Be unseen by choice, not by fear.",
+      "key_message": "Silence is strategy.",
+      "overlays": {
+        "WIND": "Ignore chatter.",
+        "RAIN": "Soften.",
+        "THUNDER": "Stay steady.",
+        "LIGHTNING": "Spot the move.",
+        "FIRE": "Don’t flare.",
+        "FOG": "Wait.",
+        "DROUGHT": "Conserve.",
+        "TIDE": "Watch cycles."
+      }
+    },
+    {
+      "id": "WITNESS-3",
+      "suit": "WITNESS",
+      "rank": 3,
+      "animal": "Powerful Owl",
+      "title": "Night Truth",
+      "essence": "Night truth.",
+      "clear": "Owl arrives when you must see what others avoid. It hunts the hidden pattern.",
+      "storm": "You’re obsessing over darkness or refusing to look at it.",
+      "when": [
+        "Uncomfortable truth",
+        "Shadow work",
+        "Discernment"
+      ],
+      "shadow": [
+        "Fixation",
+        "Denial"
+      ],
+      "boundary_note": "See clearly without becoming cruel.",
+      "key_message": "Look into the dark with clean eyes.",
+      "overlays": {
+        "WIND": "False narratives.",
+        "RAIN": "Cleanse fear.",
+        "THUNDER": "Truth pressure.",
+        "LIGHTNING": "Reveal.",
+        "FIRE": "Purge.",
+        "FOG": "Slow.",
+        "DROUGHT": "Stay efficient.",
+        "TIDE": "Truth repeats."
+      }
+    },
+    {
+      "id": "WITNESS-4",
+      "suit": "WITNESS",
+      "rank": 4,
+      "animal": "Wedge-tailed Eagle",
+      "title": "The Long View",
+      "essence": "The long view.",
+      "clear": "Eagle sees the whole terrain. This card appears when perspective is the medicine.",
+      "storm": "You’re above it to avoid feeling it. Or stuck close because you fear the view.",
+      "when": [
+        "Strategy",
+        "Overview",
+        "Decisions needing altitude"
+      ],
+      "shadow": [
+        "Detachment",
+        "Tunnel vision"
+      ],
+      "boundary_note": "Perspective must lead to action, not superiority.",
+      "key_message": "Rise. See. Decide.",
+      "overlays": {
+        "WIND": "Strong currents; stabilize.",
+        "RAIN": "Clear air after.",
+        "THUNDER": "Storm front.",
+        "LIGHTNING": "Instant route change.",
+        "FIRE": "Signal to act.",
+        "FOG": "Wait for visibility.",
+        "DROUGHT": "Conserve.",
+        "TIDE": "Watch cycles."
+      }
+    },
+    {
+      "id": "WITNESS-5",
+      "suit": "WITNESS",
+      "rank": 5,
+      "animal": "Grey Nurse Shark",
+      "title": "Calm Power Beneath Surface",
+      "essence": "Calm power beneath surface.",
+      "clear": "This shark moves without frenzy. It teaches: be powerful without noise.",
+      "storm": "You’re threatening to feel safe, or shrinking to avoid conflict.",
+      "when": [
+        "Quiet authority",
+        "Controlled strength",
+        "Presence"
+      ],
+      "shadow": [
+        "Intimidation",
+        "Weakness performance"
+      ],
+      "boundary_note": "Power is clean when it doesn’t need to prove itself.",
+      "key_message": "Move calm. Hold depth.",
+      "overlays": {
+        "WIND": "Ignore provocation.",
+        "RAIN": "Cool emotions.",
+        "THUNDER": "Boundary test.",
+        "LIGHTNING": "Decisive move.",
+        "FIRE": "Final stance.",
+        "FOG": "Withdraw.",
+        "DROUGHT": "Save energy.",
+        "TIDE": "Timing."
+      }
+    },
+    {
+      "id": "WITNESS-6",
+      "suit": "WITNESS",
+      "rank": 6,
+      "animal": "Manta Ray",
+      "title": "Grace That Filters",
+      "essence": "Grace that filters.",
+      "clear": "Manta teaches: take in what nourishes, let the rest pass through.",
+      "storm": "You’re absorbing toxicity or filtering out love.",
+      "when": [
+        "Sensitivity",
+        "Selection",
+        "Energetic hygiene"
+      ],
+      "shadow": [
+        "Porousness",
+        "Numbness"
+      ],
+      "boundary_note": "Filter without closing.",
+      "key_message": "Let only what feeds you stay.",
+      "overlays": {
+        "WIND": "Too much input.",
+        "RAIN": "Cleanse.",
+        "THUNDER": "Protect field.",
+        "LIGHTNING": "Instant discernment.",
+        "FIRE": "Burn cords.",
+        "FOG": "Rest.",
+        "DROUGHT": "Reduce exposure.",
+        "TIDE": "Renew."
+      }
+    },
+    {
+      "id": "WITNESS-7",
+      "suit": "WITNESS",
+      "rank": 7,
+      "animal": "Port Jackson Shark",
+      "title": "Ancient Calm, Bottom Truth",
+      "essence": "Ancient calm, bottom-dwelling truth.",
+      "clear": "Port Jackson is the deep witness that doesn’t chase. It waits, it knows, it remains.",
+      "storm": "You’re stuck in the past or refusing to rise.",
+      "when": [
+        "Integration",
+        "Patience",
+        "Deep memory"
+      ],
+      "shadow": [
+        "Stagnation",
+        "Avoidance of change"
+      ],
+      "boundary_note": "Depth is not delay—unless you fear the surface.",
+      "key_message": "Stay deep, then rise when called.",
+      "overlays": {
+        "WIND": "Ignore noise.",
+        "RAIN": "Release.",
+        "THUNDER": "Change approaches.",
+        "LIGHTNING": "Moment arrives.",
+        "FIRE": "Commit.",
+        "FOG": "Stay still.",
+        "DROUGHT": "Conserve.",
+        "TIDE": "Cycle completes."
+      }
+    },
+    {
+      "id": "SOVEREIGN-1",
+      "suit": "SOVEREIGN",
+      "rank": 1,
+      "animal": "Dingo",
+      "title": "Star-Watched Instinct",
+      "essence": "Sovereign instinct beneath the cosmos.",
+      "clear": "Dingo listens first, then decides. It belongs by choice and walks alone by law.",
+      "storm": "You’re isolating to avoid trust. Or submitting because you fear being alone.",
+      "when": [
+        "Boundaries matter",
+        "Trust must be earned",
+        "Choosing belonging"
+      ],
+      "shadow": [
+        "Exile identity",
+        "Compliance"
+      ],
+      "boundary_note": "Instinct filters deeper awareness—carry only what’s yours.",
+      "key_message": "Choose what you allow in.",
+      "overlays": {
+        "WIND": "Ignore persuasion.",
+        "RAIN": "Heal betrayal.",
+        "THUNDER": "Trust test.",
+        "LIGHTNING": "Instant knowing.",
+        "FIRE": "Refusal.",
+        "FOG": "Wait.",
+        "DROUGHT": "Protect energy.",
+        "TIDE": "Pattern repeats."
+      }
+    },
+    {
+      "id": "SOVEREIGN-2",
+      "suit": "SOVEREIGN",
+      "rank": 2,
+      "animal": "Echidna",
+      "title": "Soft Body, Strong Defense",
+      "essence": "Soft body, strong defense.",
+      "clear": "Echidna teaches: you can be gentle and still untouchable.",
+      "storm": "You’re spiking people because you’re hurt. Or dropping protection too soon.",
+      "when": [
+        "Vulnerability",
+        "Defense",
+        "Self-protection"
+      ],
+      "shadow": [
+        "Prickliness",
+        "Naïveté"
+      ],
+      "boundary_note": "Protect tenderness without punishing closeness.",
+      "key_message": "Be soft. Stay sovereign.",
+      "overlays": {
+        "WIND": "Don’t argue.",
+        "RAIN": "Soften safely.",
+        "THUNDER": "Test.",
+        "LIGHTNING": "Clarity.",
+        "FIRE": "Firm no.",
+        "FOG": "Withdraw.",
+        "DROUGHT": "Conserve.",
+        "TIDE": "Return."
+      }
+    },
+    {
+      "id": "SOVEREIGN-3",
+      "suit": "SOVEREIGN",
+      "rank": 3,
+      "animal": "Spotted-tailed Quoll",
+      "title": "The Lone Hunter’s Ethics",
+      "essence": "The lone hunter’s ethics.",
+      "clear": "Quoll moves with intelligence and restraint. It chooses targets carefully—energy is sacred.",
+      "storm": "You’re hunting approval, not truth. Or scattering energy across too many battles.",
+      "when": [
+        "Focus",
+        "Strategy",
+        "Personal ambition"
+      ],
+      "shadow": [
+        "Obsession",
+        "Scattered will"
+      ],
+      "boundary_note": "Spend effort only where it feeds your law.",
+      "key_message": "Choose your pursuit.",
+      "overlays": {
+        "WIND": "Distractions.",
+        "RAIN": "Recover.",
+        "THUNDER": "Challenge.",
+        "LIGHTNING": "Target appears.",
+        "FIRE": "Commit.",
+        "FOG": "Hold.",
+        "DROUGHT": "Ration.",
+        "TIDE": "Cycles."
+      }
+    },
+    {
+      "id": "SOVEREIGN-4",
+      "suit": "SOVEREIGN",
+      "rank": 4,
+      "animal": "Hopping Mouse",
+      "title": "Survival Through Precision",
+      "essence": "Survival through precision.",
+      "clear": "Limits are not punishment—they are design. Live by smart limits, not grand speeches.",
+      "storm": "Scarcity mindset rules you, or you ignore limits and crash.",
+      "when": [
+        "Resources",
+        "Budgeting",
+        "Discipline"
+      ],
+      "shadow": [
+        "Hoarding",
+        "Recklessness"
+      ],
+      "boundary_note": "Limits are design, not shame.",
+      "key_message": "Live within law and thrive.",
+      "overlays": {
+        "WIND": "Ignore pressure.",
+        "RAIN": "Restore.",
+        "THUNDER": "Test.",
+        "LIGHTNING": "Quick pivot.",
+        "FIRE": "Cut waste.",
+        "FOG": "Pause.",
+        "DROUGHT": "Conserve.",
+        "TIDE": "Plan cycles."
+      }
+    },
+    {
+      "id": "SOVEREIGN-5",
+      "suit": "SOVEREIGN",
+      "rank": 5,
+      "animal": "Blue-tongue Lizard",
+      "title": "Signal the Line",
+      "essence": "The warning that prevents war.",
+      "clear": "Blue-tongue teaches: show your boundary clearly before you need force.",
+      "storm": "You’re bluffing or staying silent until eruption.",
+      "when": [
+        "Conflict prevention",
+        "Clear signals",
+        "Boundaries"
+      ],
+      "shadow": [
+        "Intimidation",
+        "Suppression"
+      ],
+      "boundary_note": "Signal early, act rarely.",
+      "key_message": "Show the line, then hold it.",
+      "overlays": {
+        "WIND": "Don’t engage.",
+        "RAIN": "Cool.",
+        "THUNDER": "Test.",
+        "LIGHTNING": "Decide.",
+        "FIRE": "Final ‘no’.",
+        "FOG": "Withdraw.",
+        "DROUGHT": "Save energy.",
+        "TIDE": "Repeat."
+      }
+    },
+    {
+      "id": "SOVEREIGN-6",
+      "suit": "SOVEREIGN",
+      "rank": 6,
+      "animal": "Quokka",
+      "title": "Joy With a Spine",
+      "essence": "Joy with a spine.",
+      "clear": "Quokka is resilience. Keep your light without giving away your law.",
+      "storm": "You’re performing positivity while bleeding. Or rejecting joy because pain feels more ‘real.’",
+      "when": [
+        "Morale",
+        "Healing",
+        "Community without ownership"
+      ],
+      "shadow": [
+        "Denial",
+        "Cynicism"
+      ],
+      "boundary_note": "Joy is allowed, but not as a mask.",
+      "key_message": "Let joy be true, not forced.",
+      "overlays": {
+        "WIND": "Don’t perform.",
+        "RAIN": "Release grief.",
+        "THUNDER": "Keep boundaries.",
+        "LIGHTNING": "Snap out of the mask.",
+        "FIRE": "Burn pretense.",
+        "FOG": "Rest.",
+        "DROUGHT": "Protect energy.",
+        "TIDE": "Joy returns."
+      }
+    },
+    {
+      "id": "SOVEREIGN-7",
+      "suit": "SOVEREIGN",
+      "rank": 7,
+      "animal": "Kangaroo Island Dunnart",
+      "title": "The Small Crown",
+      "essence": "The small crown.",
+      "clear": "Dunnart is sovereignty without spectacle. Quietly crowned by endurance.",
+      "storm": "You’re belittling yourself, or hiding behind ‘smallness’ to avoid rising.",
+      "when": [
+        "Finishing cycles",
+        "Endurance",
+        "Self-trust"
+      ],
+      "shadow": [
+        "Invisibility",
+        "False humility"
+      ],
+      "boundary_note": "You don’t need size to have law.",
+      "key_message": "Rule your life quietly and completely.",
+      "overlays": {
+        "WIND": "Ignore opinions.",
+        "RAIN": "Restore.",
+        "THUNDER": "Final test.",
+        "LIGHTNING": "Moment to rise.",
+        "FIRE": "Commit.",
+        "FOG": "Wait.",
+        "DROUGHT": "Ration.",
+        "TIDE": "Cycle completes."
+      }
+    }
+  ]
+}

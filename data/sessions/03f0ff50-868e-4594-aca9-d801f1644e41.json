@@ -1,0 +1,37 @@
+{
+  "session_id": "03f0ff50-868e-4594-aca9-d801f1644e41",
+  "created": 1771241121.6643481,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "SOVEREIGN-4",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "Live within law and thrive.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "SOVEREIGN-4",
+          "note": "Live within law and thrive.\n\nLimits are not punishment\u2014they are design. Live by smart limits, not grand speeches.\n\nIgnore pressure."
+        }
+      ],
+      "advice": [
+        "Information moves fast. External voices amplify. Verify, simplify, choose your signal.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

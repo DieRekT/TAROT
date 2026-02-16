@@ -1,0 +1,37 @@
+{
+  "session_id": "c1ef47af-6414-4df8-9dc1-6798340ce8ca",
+  "created": 1771245303.5370343,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "WITNESS-5",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "Move calm. Hold depth.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "WITNESS-5",
+          "note": "Move calm. Hold depth.\n\nThis shark moves without frenzy. It teaches: be powerful without noise.\n\nIgnore provocation."
+        }
+      ],
+      "advice": [
+        "Information moves fast. External voices amplify. Verify, simplify, choose your signal.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

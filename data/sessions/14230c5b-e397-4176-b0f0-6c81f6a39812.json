@@ -1,0 +1,56 @@
+{
+  "session_id": "14230c5b-e397-4176-b0f0-6c81f6a39812",
+  "created": 1770561156.6436815,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "t42_01",
+        "reversed": false
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "t42_11",
+        "reversed": false
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "t42_20",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "This reading describes the current pattern and what it asks of you. Return to what is real and present. Your stability comes from tending what is already under your feet. Commit and move forward.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "t42_01",
+          "note": "Past: This card highlights a central theme. It suggests return to what is real and present. your stability comes from tending what is already under your feet.. Treat this as guidance, not a fixed outcome."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "t42_11",
+          "note": "Present: This card highlights a central theme. It suggests commit and move forward.. Treat this as guidance, not a fixed outcome."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "t42_20",
+          "note": "Future: This card highlights a central theme. It suggests think in years, not moments.. Treat this as guidance, not a fixed outcome."
+        }
+      ],
+      "advice": [
+        "Reflect on how these patterns connect to your current situation."
+      ]
+    }
+  },
+  "chat": []
+}

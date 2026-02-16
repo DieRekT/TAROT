@@ -1,0 +1,61 @@
+{
+  "session_id": "f95302c2-7dbb-40a6-8301-ba67995e3dd6",
+  "created": 1771241374.1553183,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "SOVEREIGN-1",
+        "reversed": true
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "MOTION-7",
+        "reversed": false
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "MOTION-3",
+        "reversed": true
+      }
+    ],
+    "result": {
+      "summary": "Storm: Choose what you allow in. Respect the risk. Choose cleanly.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "SOVEREIGN-1",
+          "note": "Storm: Choose what you allow in.\n\nYou\u2019re isolating to avoid trust. Or submitting because you fear being alone.\n\nInstant knowing."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "MOTION-7",
+          "note": "Respect the risk. Choose cleanly.\n\nJellyfish appears when you must respect danger even in beauty. Timing is everything; one mistake costs.\n\nInstant decision."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "MOTION-3",
+          "note": "Storm: Walk the long road.\n\nYou\u2019re running from something. Or stuck because you fear distance.\n\nRoute shift."
+        }
+      ],
+      "advice": [
+        "Truth arrives fast. The window is short. Act cleanly and decisively.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

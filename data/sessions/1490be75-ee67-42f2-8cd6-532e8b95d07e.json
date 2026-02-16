@@ -1,0 +1,58 @@
+{
+  "session_id": "1490be75-ee67-42f2-8cd6-532e8b95d07e",
+  "created": 1770558040.775946,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "t42_01",
+        "reversed": false
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "t42_11",
+        "reversed": false
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "t42_20",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "The symbols are speaking in patterns. Here's the weave of your spread: (Fill deck/deck.json with your brother's real meanings to make this elite.)",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "t42_01",
+          "note": "Return to what is real and present. Your stability comes from tending what is already under your feet."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "t42_11",
+          "note": "Commit and move forward."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "t42_20",
+          "note": "Think in years, not moments."
+        }
+      ],
+      "advice": [
+        "Return to what is real and present.",
+        "Commit and move forward.",
+        "Think in years, not moments."
+      ]
+    }
+  },
+  "chat": []
+}

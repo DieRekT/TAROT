@@ -1,0 +1,37 @@
+{
+  "session_id": "996268e0-ab51-48f3-9188-15736ac28db1",
+  "created": 1771237831.2639265,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "seer",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "WITNESS-6",
+        "reversed": true
+      }
+    ],
+    "result": {
+      "summary": "Storm: Let only what feeds you stay.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "WITNESS-6",
+          "note": "Storm: Let only what feeds you stay.\n\nYou\u2019re absorbing toxicity or filtering out love.\n\nToo much input."
+        }
+      ],
+      "advice": [
+        "Information moves fast. External voices amplify. Verify, simplify, choose your signal.",
+        "Treat this as guidance, not a fixed outcome."
+      ],
+      "theme": null,
+      "energy": null,
+      "synthesis": null,
+      "reflection_prompt": null
+    }
+  },
+  "chat": []
+}

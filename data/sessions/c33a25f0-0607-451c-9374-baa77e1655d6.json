@@ -1,0 +1,68 @@
+{
+  "session_id": "c33a25f0-0607-451c-9374-baa77e1655d6",
+  "created": 1770545513.3656907,
+  "reading": {
+    "spread_type": "three_card",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "t42_20",
+        "reversed": true
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "t42_28",
+        "reversed": true
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "t42_02",
+        "reversed": true
+      }
+    ],
+    "result": {
+      "summary": "Spread captured. Replace deck/deck.json meanings with your brother's custom meanings for rich readings.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "t42_20",
+          "note": "Reversed meaning for 20."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "t42_28",
+          "note": "Reversed meaning for 28."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "t42_02",
+          "note": "Reversed meaning for 02."
+        }
+      ],
+      "advice": [
+        "Reversed meaning for 20.",
+        "Reversed meaning for 28.",
+        "Reversed meaning for 02."
+      ]
+    }
+  },
+  "chat": [
+    {
+      "role": "user",
+      "content": "?",
+      "ts": 1770545793.1771188
+    },
+    {
+      "role": "assistant",
+      "content": "Grounded in your current spread:\n\n- Past: Reversed meaning for 20.\n- Present: Reversed meaning for 28.\n- Future: Reversed meaning for 02.\n\nNext steps:\n- Reversed meaning for 20.\n- Reversed meaning for 28.\n- Reversed meaning for 02.",
+      "ts": 1770545793.1778274
+    }
+  ]
+}

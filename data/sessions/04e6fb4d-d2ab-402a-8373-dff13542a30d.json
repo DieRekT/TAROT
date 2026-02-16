@@ -1,0 +1,25 @@
+{
+  "session_id": "04e6fb4d-d2ab-402a-8373-dff13542a30d",
+  "created": 1770601347.0089476,
+  "reading": {
+    "spread_type": "one_card",
+    "style": "counselor",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "t42_25",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "This reading points to a moment of reflection and choice.",
+      "card_notes": [],
+      "advice": [
+        "Reflect on how these patterns connect to your current situation."
+      ]
+    }
+  },
+  "chat": []
+}

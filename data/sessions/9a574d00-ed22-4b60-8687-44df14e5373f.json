@@ -1,0 +1,69 @@
+{
+  "session_id": "9a574d00-ed22-4b60-8687-44df14e5373f",
+  "created": 1770557778.2708306,
+  "reading": {
+    "spread_type": "three_card",
+    "style": "counselor",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "Past",
+        "card_id": "t42_06",
+        "reversed": false
+      },
+      {
+        "slot_index": 1,
+        "slot_label": "Present",
+        "card_id": "t42_06",
+        "reversed": false
+      },
+      {
+        "slot_index": 2,
+        "slot_label": "Future",
+        "card_id": "t42_04",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "Let's approach this gently and honestly. Here's what your spread is reflecting: (Fill deck/deck.json with your brother's real meanings to make this elite.)",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "Past",
+          "card_id": "t42_06",
+          "note": "What you maintain will support you long-term."
+        },
+        {
+          "slot_index": 1,
+          "slot_label": "Present",
+          "card_id": "t42_06",
+          "note": "What you maintain will support you long-term."
+        },
+        {
+          "slot_index": 2,
+          "slot_label": "Future",
+          "card_id": "t42_04",
+          "note": "This is not a solo path. Strength comes from shared effort."
+        }
+      ],
+      "advice": [
+        "What you maintain will support you long-term.",
+        "What you maintain will support you long-term.",
+        "This is not a solo path."
+      ]
+    }
+  },
+  "chat": [
+    {
+      "role": "user",
+      "content": "Kinship This is not a solo path. Strength comes from shared effort.",
+      "ts": 1770557798.855056
+    },
+    {
+      "role": "assistant",
+      "content": "Grounded in your current spread:\n\n- Past: What you maintain will support you long-term.\n- Present: What you maintain will support you long-term.\n- Future: This is not a solo path. Strength comes from shared effort.\n\nNext steps:\n- What you maintain will support you long-term.\n- What you maintain will support you long-term.\n- This is not a solo path.",
+      "ts": 1770557798.8556008
+    }
+  ]
+}

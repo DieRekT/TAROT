@@ -1,0 +1,42 @@
+{
+  "session_id": "0ac80a80-86ef-404f-8c5b-4ee39247630d",
+  "created": 1770543621.0345323,
+  "reading": {
+    "spread_type": "one_card",
+    "question": null,
+    "placements": [
+      {
+        "slot_index": 0,
+        "slot_label": "The Card",
+        "card_id": "t42_20",
+        "reversed": false
+      }
+    ],
+    "result": {
+      "summary": "Spread captured. Replace deck/deck.json meanings with your brother's custom meanings for rich readings.",
+      "card_notes": [
+        {
+          "slot_index": 0,
+          "slot_label": "The Card",
+          "card_id": "t42_20",
+          "note": "Upright meaning for 20."
+        }
+      ],
+      "advice": [
+        "Upright meaning for 20."
+      ]
+    }
+  },
+  "chat": [
+    {
+      "role": "user",
+      "content": "whats it meran",
+      "ts": 1770544732.1719613
+    },
+    {
+      "role": "assistant",
+      "content": "Grounded in your current spread:\n\n- The Card: Upright meaning for 20.\n\nPractical next steps:\n- Upright meaning for 20.\n\nAsk: \u201cgo deeper on Challenge\u201d, \u201cwhat\u2019s the warning here?\u201d, or \u201cpull a clarifier and scan it.\u201d",
+      "ts": 1770544732.1725008
+    }
+  ]
+}
